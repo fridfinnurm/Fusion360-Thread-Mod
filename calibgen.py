@@ -14,6 +14,9 @@ outfile = "./ISOMetricprofileCalibration.xml"
 with open(threadlibpath, "br") as f:
     threadlib = etree.parse(f)
 
+name = threadlib.getroot().find(".//Name")
+name.text = name.text + " Calibration"
+
 threads = threadlib.getroot().iterfind(".//ThreadSize")
 for ts in threads:
     size = float(ts.find(".//Size").text)
