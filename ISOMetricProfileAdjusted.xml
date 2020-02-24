@@ -35,9 +35,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>0.87</MajorDia>
-        <PitchDia>0.813</PitchDia>
-        <MinorDia>0.795</MinorDia>
+        <MajorDia>0.874</MajorDia>
+        <PitchDia>0.817</PitchDia>
+        <MinorDia>0.799</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -72,9 +72,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>0.92</MajorDia>
-        <PitchDia>0.859</PitchDia>
-        <MinorDia>0.839</MinorDia>
+        <MajorDia>0.926</MajorDia>
+        <PitchDia>0.864</PitchDia>
+        <MinorDia>0.844</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -106,9 +106,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>0.922</MajorDia>
-        <PitchDia>0.853</PitchDia>
-        <MinorDia>0.83</MinorDia>
+        <MajorDia>0.927</MajorDia>
+        <PitchDia>0.858</PitchDia>
+        <MinorDia>0.836</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -143,9 +143,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>0.972</MajorDia>
-        <PitchDia>0.904</PitchDia>
-        <MinorDia>0.881</MinorDia>
+        <MajorDia>0.976</MajorDia>
+        <PitchDia>0.908</PitchDia>
+        <MinorDia>0.885</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -180,9 +180,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>1.023</MajorDia>
-        <PitchDia>0.947</PitchDia>
-        <MinorDia>0.922</MinorDia>
+        <MajorDia>1.027</MajorDia>
+        <PitchDia>0.951</PitchDia>
+        <MinorDia>0.926</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -217,9 +217,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>1.072</MajorDia>
-        <PitchDia>0.996</PitchDia>
-        <MinorDia>0.971</MinorDia>
+        <MajorDia>1.076</MajorDia>
+        <PitchDia>1.0</PitchDia>
+        <MinorDia>0.975</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -254,9 +254,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>1.126</MajorDia>
-        <PitchDia>1.031</PitchDia>
-        <MinorDia>0.999</MinorDia>
+        <MajorDia>1.13</MajorDia>
+        <PitchDia>1.035</PitchDia>
+        <MinorDia>1.003</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -291,9 +291,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>1.176</MajorDia>
-        <PitchDia>1.08</PitchDia>
-        <MinorDia>1.048</MinorDia>
+        <MajorDia>1.18</MajorDia>
+        <PitchDia>1.084</PitchDia>
+        <MinorDia>1.052</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -328,9 +328,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>1.229</MajorDia>
-        <PitchDia>1.115</PitchDia>
-        <MinorDia>1.076</MinorDia>
+        <MajorDia>1.233</MajorDia>
+        <PitchDia>1.119</PitchDia>
+        <MinorDia>1.08</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -365,9 +365,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>1.332</MajorDia>
-        <PitchDia>1.198</PitchDia>
-        <MinorDia>1.153</MinorDia>
+        <MajorDia>1.336</MajorDia>
+        <PitchDia>1.202</PitchDia>
+        <MinorDia>1.157</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -402,9 +402,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>1.435</MajorDia>
-        <PitchDia>1.282</PitchDia>
-        <MinorDia>1.23</MinorDia>
+        <MajorDia>1.439</MajorDia>
+        <PitchDia>1.286</PitchDia>
+        <MinorDia>1.234</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -439,9 +439,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>1.539</MajorDia>
-        <PitchDia>1.367</PitchDia>
-        <MinorDia>1.308</MinorDia>
+        <MajorDia>1.542</MajorDia>
+        <PitchDia>1.37</PitchDia>
+        <MinorDia>1.311</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -476,9 +476,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>1.652</MajorDia>
-        <PitchDia>1.472</PitchDia>
-        <MinorDia>1.368</MinorDia>
+        <MajorDia>1.656</MajorDia>
+        <PitchDia>1.475</PitchDia>
+        <MinorDia>1.371</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -510,9 +510,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>1.645</MajorDia>
-        <PitchDia>1.501</PitchDia>
-        <MinorDia>1.42</MinorDia>
+        <MajorDia>1.648</MajorDia>
+        <PitchDia>1.504</PitchDia>
+        <MinorDia>1.423</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -547,9 +547,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>1.752</MajorDia>
-        <PitchDia>1.571</PitchDia>
-        <MinorDia>1.467</MinorDia>
+        <MajorDia>1.754</MajorDia>
+        <PitchDia>1.574</PitchDia>
+        <MinorDia>1.47</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -581,9 +581,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>1.744</MajorDia>
-        <PitchDia>1.6</PitchDia>
-        <MinorDia>1.519</MinorDia>
+        <MajorDia>1.747</MajorDia>
+        <PitchDia>1.603</PitchDia>
+        <MinorDia>1.522</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -618,9 +618,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>1.85</MajorDia>
-        <PitchDia>1.67</PitchDia>
-        <MinorDia>1.566</MinorDia>
+        <MajorDia>1.854</MajorDia>
+        <PitchDia>1.673</PitchDia>
+        <MinorDia>1.569</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -652,9 +652,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>1.843</MajorDia>
-        <PitchDia>1.699</PitchDia>
-        <MinorDia>1.618</MinorDia>
+        <MajorDia>1.846</MajorDia>
+        <PitchDia>1.702</PitchDia>
+        <MinorDia>1.621</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -689,9 +689,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>2.049</MajorDia>
-        <PitchDia>1.905</PitchDia>
-        <MinorDia>1.816</MinorDia>
+        <MajorDia>2.052</MajorDia>
+        <PitchDia>1.908</PitchDia>
+        <MinorDia>1.819</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -723,9 +723,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>2.041</MajorDia>
-        <PitchDia>1.897</PitchDia>
-        <MinorDia>1.816</MinorDia>
+        <MajorDia>2.044</MajorDia>
+        <PitchDia>1.9</PitchDia>
+        <MinorDia>1.819</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -760,9 +760,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>2.261</MajorDia>
-        <PitchDia>2.008</PitchDia>
-        <MinorDia>1.864</MinorDia>
+        <MajorDia>2.263</MajorDia>
+        <PitchDia>2.01</PitchDia>
+        <MinorDia>1.866</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -794,9 +794,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>2.245</MajorDia>
-        <PitchDia>2.028</PitchDia>
-        <MinorDia>1.911</MinorDia>
+        <MajorDia>2.247</MajorDia>
+        <PitchDia>2.03</PitchDia>
+        <MinorDia>1.913</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -828,9 +828,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>2.241</MajorDia>
-        <PitchDia>2.097</PitchDia>
-        <MinorDia>2.014</MinorDia>
+        <MajorDia>2.243</MajorDia>
+        <PitchDia>2.099</PitchDia>
+        <MinorDia>2.016</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -865,9 +865,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>2.36</MajorDia>
-        <PitchDia>2.107</PitchDia>
-        <MinorDia>1.963</MinorDia>
+        <MajorDia>2.362</MajorDia>
+        <PitchDia>2.109</PitchDia>
+        <MinorDia>1.965</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -902,9 +902,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>2.459</MajorDia>
-        <PitchDia>2.206</PitchDia>
-        <MinorDia>2.062</MinorDia>
+        <MajorDia>2.461</MajorDia>
+        <PitchDia>2.208</PitchDia>
+        <MinorDia>2.064</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -936,9 +936,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>2.439</MajorDia>
-        <PitchDia>2.295</PitchDia>
-        <MinorDia>2.212</MinorDia>
+        <MajorDia>2.441</MajorDia>
+        <PitchDia>2.297</PitchDia>
+        <MinorDia>2.214</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -973,9 +973,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>2.663</MajorDia>
-        <PitchDia>2.374</PitchDia>
-        <MinorDia>2.212</MinorDia>
+        <MajorDia>2.665</MajorDia>
+        <PitchDia>2.376</PitchDia>
+        <MinorDia>2.214</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -1007,9 +1007,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>2.644</MajorDia>
-        <PitchDia>2.464</PitchDia>
-        <MinorDia>2.358</MinorDia>
+        <MajorDia>2.646</MajorDia>
+        <PitchDia>2.466</PitchDia>
+        <MinorDia>2.36</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -1044,9 +1044,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>2.867</MajorDia>
-        <PitchDia>2.542</PitchDia>
-        <MinorDia>2.362</MinorDia>
+        <MajorDia>2.869</MajorDia>
+        <PitchDia>2.544</PitchDia>
+        <MinorDia>2.364</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -1078,9 +1078,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>2.843</MajorDia>
-        <PitchDia>2.662</PitchDia>
-        <MinorDia>2.556</MinorDia>
+        <MajorDia>2.844</MajorDia>
+        <PitchDia>2.664</PitchDia>
+        <MinorDia>2.558</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -1115,9 +1115,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>2.966</MajorDia>
-        <PitchDia>2.641</PitchDia>
-        <MinorDia>2.461</MinorDia>
+        <MajorDia>2.968</MajorDia>
+        <PitchDia>2.643</PitchDia>
+        <MinorDia>2.463</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -1149,9 +1149,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>2.96</MajorDia>
-        <PitchDia>2.671</PitchDia>
-        <MinorDia>2.509</MinorDia>
+        <MajorDia>2.962</MajorDia>
+        <PitchDia>2.673</PitchDia>
+        <MinorDia>2.511</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -1186,7 +1186,7 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>3.164</MajorDia>
+        <MajorDia>3.165</MajorDia>
         <PitchDia>2.84</PitchDia>
         <MinorDia>2.66</MinorDia>
       </Thread>
@@ -1220,9 +1220,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>3.152</MajorDia>
-        <PitchDia>2.899</PitchDia>
-        <MinorDia>2.755</MinorDia>
+        <MajorDia>3.153</MajorDia>
+        <PitchDia>2.9</PitchDia>
+        <MinorDia>2.756</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -1257,9 +1257,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>3.258</MajorDia>
-        <PitchDia>2.933</PitchDia>
-        <MinorDia>2.758</MinorDia>
+        <MajorDia>3.259</MajorDia>
+        <PitchDia>2.934</PitchDia>
+        <MinorDia>2.759</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -1507,9 +1507,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>5.173</MajorDia>
-        <PitchDia>4.632</PitchDia>
-        <MinorDia>4.343</MinorDia>
+        <MajorDia>5.172</MajorDia>
+        <PitchDia>4.631</PitchDia>
+        <MinorDia>4.342</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -1541,9 +1541,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>5.146</MajorDia>
-        <PitchDia>4.785</PitchDia>
-        <MinorDia>4.589</MinorDia>
+        <MajorDia>5.145</MajorDia>
+        <PitchDia>4.784</PitchDia>
+        <MinorDia>4.588</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -1649,9 +1649,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>6.141</MajorDia>
-        <PitchDia>5.78</PitchDia>
-        <MinorDia>5.574</MinorDia>
+        <MajorDia>6.14</MajorDia>
+        <PitchDia>5.779</PitchDia>
+        <MinorDia>5.573</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -2137,9 +2137,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>9.647</MajorDia>
-        <PitchDia>8.745</PitchDia>
-        <MinorDia>8.256</MinorDia>
+        <MajorDia>9.648</MajorDia>
+        <PitchDia>8.746</PitchDia>
+        <MinorDia>8.257</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -2171,9 +2171,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>9.623</MajorDia>
-        <PitchDia>8.901</PitchDia>
-        <MinorDia>8.513</MinorDia>
+        <MajorDia>9.624</MajorDia>
+        <PitchDia>8.902</PitchDia>
+        <MinorDia>8.514</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -2205,9 +2205,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>9.597</MajorDia>
-        <PitchDia>9.056</PitchDia>
-        <MinorDia>8.76</MinorDia>
+        <MajorDia>9.598</MajorDia>
+        <PitchDia>9.057</PitchDia>
+        <MinorDia>8.761</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -2239,9 +2239,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>9.569</MajorDia>
-        <PitchDia>9.208</PitchDia>
-        <MinorDia>9.006</MinorDia>
+        <MajorDia>9.57</MajorDia>
+        <PitchDia>9.209</PitchDia>
+        <MinorDia>9.007</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -2276,9 +2276,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>10.651</MajorDia>
-        <PitchDia>9.569</PitchDia>
-        <MinorDia>8.979</MinorDia>
+        <MajorDia>10.652</MajorDia>
+        <PitchDia>9.57</PitchDia>
+        <MinorDia>8.98</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -2310,9 +2310,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>10.623</MajorDia>
-        <PitchDia>9.721</PitchDia>
-        <MinorDia>9.232</MinorDia>
+        <MajorDia>10.624</MajorDia>
+        <PitchDia>9.722</PitchDia>
+        <MinorDia>9.234</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -2344,9 +2344,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>10.614</MajorDia>
-        <PitchDia>9.805</PitchDia>
-        <MinorDia>9.366</MinorDia>
+        <MajorDia>10.615</MajorDia>
+        <PitchDia>9.806</PitchDia>
+        <MinorDia>9.367</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -2378,9 +2378,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>10.6</MajorDia>
-        <PitchDia>9.878</PitchDia>
-        <MinorDia>9.488</MinorDia>
+        <MajorDia>10.601</MajorDia>
+        <PitchDia>9.88</PitchDia>
+        <MinorDia>9.49</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -2412,9 +2412,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>10.573</MajorDia>
-        <PitchDia>10.032</PitchDia>
-        <MinorDia>9.736</MinorDia>
+        <MajorDia>10.574</MajorDia>
+        <PitchDia>10.033</PitchDia>
+        <MinorDia>9.737</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -2446,9 +2446,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>10.545</MajorDia>
-        <PitchDia>10.184</PitchDia>
-        <MinorDia>9.982</MinorDia>
+        <MajorDia>10.546</MajorDia>
+        <PitchDia>10.185</PitchDia>
+        <MinorDia>9.983</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -2483,9 +2483,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>11.62</MajorDia>
-        <PitchDia>10.538</PitchDia>
-        <MinorDia>9.953</MinorDia>
+        <MajorDia>11.622</MajorDia>
+        <PitchDia>10.54</PitchDia>
+        <MinorDia>9.955</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -2517,9 +2517,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>11.574</MajorDia>
-        <PitchDia>10.852</PitchDia>
-        <MinorDia>10.462</MinorDia>
+        <MajorDia>11.576</MajorDia>
+        <PitchDia>10.854</PitchDia>
+        <MinorDia>10.465</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -2551,9 +2551,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>11.547</MajorDia>
-        <PitchDia>11.006</PitchDia>
-        <MinorDia>10.71</MinorDia>
+        <MajorDia>11.549</MajorDia>
+        <PitchDia>11.008</PitchDia>
+        <MinorDia>10.712</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -2585,9 +2585,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>11.519</MajorDia>
-        <PitchDia>11.158</PitchDia>
-        <MinorDia>10.956</MinorDia>
+        <MajorDia>11.521</MajorDia>
+        <PitchDia>11.16</PitchDia>
+        <MinorDia>10.958</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -2822,9 +2822,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>14.594</MajorDia>
-        <PitchDia>13.15</PitchDia>
-        <MinorDia>12.366</MinorDia>
+        <MajorDia>14.586</MajorDia>
+        <PitchDia>13.142</PitchDia>
+        <MinorDia>12.358</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -2856,9 +2856,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>14.546</MajorDia>
-        <PitchDia>13.464</PitchDia>
-        <MinorDia>12.869</MinorDia>
+        <MajorDia>14.538</MajorDia>
+        <PitchDia>13.456</PitchDia>
+        <MinorDia>12.861</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -2890,9 +2890,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>14.518</MajorDia>
-        <PitchDia>13.616</PitchDia>
-        <MinorDia>13.122</MinorDia>
+        <MajorDia>14.51</MajorDia>
+        <PitchDia>13.608</PitchDia>
+        <MinorDia>13.114</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -2924,9 +2924,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>14.495</MajorDia>
-        <PitchDia>13.774</PitchDia>
-        <MinorDia>13.378</MinorDia>
+        <MajorDia>14.487</MajorDia>
+        <PitchDia>13.766</PitchDia>
+        <MinorDia>13.371</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -2958,9 +2958,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>14.467</MajorDia>
-        <PitchDia>13.926</PitchDia>
-        <MinorDia>13.626</MinorDia>
+        <MajorDia>14.459</MajorDia>
+        <PitchDia>13.918</PitchDia>
+        <MinorDia>13.618</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -2992,9 +2992,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>14.439</MajorDia>
-        <PitchDia>14.078</PitchDia>
-        <MinorDia>13.872</MinorDia>
+        <MajorDia>14.431</MajorDia>
+        <PitchDia>14.07</PitchDia>
+        <MinorDia>13.864</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -3029,9 +3029,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>15.517</MajorDia>
-        <PitchDia>14.435</PitchDia>
-        <MinorDia>13.84</MinorDia>
+        <MajorDia>15.5</MajorDia>
+        <PitchDia>14.418</PitchDia>
+        <MinorDia>13.823</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -3063,9 +3063,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>15.466</MajorDia>
-        <PitchDia>14.744</PitchDia>
-        <MinorDia>14.349</MinorDia>
+        <MajorDia>15.449</MajorDia>
+        <PitchDia>14.727</PitchDia>
+        <MinorDia>14.332</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -3100,9 +3100,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>16.536</MajorDia>
-        <PitchDia>15.092</PitchDia>
-        <MinorDia>14.308</MinorDia>
+        <MajorDia>16.505</MajorDia>
+        <PitchDia>15.062</PitchDia>
+        <MinorDia>14.278</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -3134,9 +3134,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>16.47</MajorDia>
-        <PitchDia>15.316</PitchDia>
-        <MinorDia>14.703</MinorDia>
+        <MajorDia>16.44</MajorDia>
+        <PitchDia>15.286</PitchDia>
+        <MinorDia>14.673</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -3168,9 +3168,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>16.488</MajorDia>
-        <PitchDia>15.406</PitchDia>
-        <MinorDia>14.811</MinorDia>
+        <MajorDia>16.458</MajorDia>
+        <PitchDia>15.376</PitchDia>
+        <MinorDia>14.781</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -3202,9 +3202,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>16.46</MajorDia>
-        <PitchDia>15.558</PitchDia>
-        <MinorDia>15.064</MinorDia>
+        <MajorDia>16.43</MajorDia>
+        <PitchDia>15.528</PitchDia>
+        <MinorDia>15.034</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -3236,9 +3236,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>16.437</MajorDia>
-        <PitchDia>15.716</PitchDia>
-        <MinorDia>15.32</MinorDia>
+        <MajorDia>16.407</MajorDia>
+        <PitchDia>15.686</PitchDia>
+        <MinorDia>15.291</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -3270,9 +3270,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>16.409</MajorDia>
-        <PitchDia>15.868</PitchDia>
-        <MinorDia>15.568</MinorDia>
+        <MajorDia>16.379</MajorDia>
+        <PitchDia>15.838</PitchDia>
+        <MinorDia>15.538</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -3304,9 +3304,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>16.381</MajorDia>
-        <PitchDia>16.02</PitchDia>
-        <MinorDia>15.814</MinorDia>
+        <MajorDia>16.351</MajorDia>
+        <PitchDia>15.99</PitchDia>
+        <MinorDia>15.784</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -3341,9 +3341,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>17.46</MajorDia>
-        <PitchDia>16.378</PitchDia>
-        <MinorDia>15.783</MinorDia>
+        <MajorDia>17.412</MajorDia>
+        <PitchDia>16.33</PitchDia>
+        <MinorDia>15.735</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -3375,9 +3375,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>17.409</MajorDia>
-        <PitchDia>16.687</PitchDia>
-        <MinorDia>16.292</MinorDia>
+        <MajorDia>17.361</MajorDia>
+        <PitchDia>16.639</PitchDia>
+        <MinorDia>16.244</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -3412,9 +3412,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>18.522</MajorDia>
-        <PitchDia>16.717</PitchDia>
-        <MinorDia>15.748</MinorDia>
+        <MajorDia>18.452</MajorDia>
+        <PitchDia>16.647</PitchDia>
+        <MinorDia>15.678</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -3446,9 +3446,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>18.479</MajorDia>
-        <PitchDia>17.036</PitchDia>
-        <MinorDia>16.251</MinorDia>
+        <MajorDia>18.409</MajorDia>
+        <PitchDia>16.966</PitchDia>
+        <MinorDia>16.181</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -3480,9 +3480,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>18.432</MajorDia>
-        <PitchDia>17.35</PitchDia>
-        <MinorDia>16.755</MinorDia>
+        <MajorDia>18.362</MajorDia>
+        <PitchDia>17.28</PitchDia>
+        <MinorDia>16.685</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -3514,9 +3514,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>18.404</MajorDia>
-        <PitchDia>17.502</PitchDia>
-        <MinorDia>17.008</MinorDia>
+        <MajorDia>18.334</MajorDia>
+        <PitchDia>17.432</PitchDia>
+        <MinorDia>16.938</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -3548,9 +3548,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>18.381</MajorDia>
-        <PitchDia>17.659</PitchDia>
-        <MinorDia>17.264</MinorDia>
+        <MajorDia>18.311</MajorDia>
+        <PitchDia>17.589</PitchDia>
+        <MinorDia>17.194</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -3582,9 +3582,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>18.353</MajorDia>
-        <PitchDia>17.812</PitchDia>
-        <MinorDia>17.512</MinorDia>
+        <MajorDia>18.283</MajorDia>
+        <PitchDia>17.742</PitchDia>
+        <MinorDia>17.442</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -3616,9 +3616,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>18.325</MajorDia>
-        <PitchDia>17.964</PitchDia>
-        <MinorDia>17.758</MinorDia>
+        <MajorDia>18.255</MajorDia>
+        <PitchDia>17.894</PitchDia>
+        <MinorDia>17.688</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -3653,9 +3653,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>20.472</MajorDia>
-        <PitchDia>18.667</PitchDia>
-        <MinorDia>17.698</MinorDia>
+        <MajorDia>20.336</MajorDia>
+        <PitchDia>18.531</PitchDia>
+        <MinorDia>17.562</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -3687,9 +3687,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>20.429</MajorDia>
-        <PitchDia>18.986</PitchDia>
-        <MinorDia>18.201</MinorDia>
+        <MajorDia>20.293</MajorDia>
+        <PitchDia>18.85</PitchDia>
+        <MinorDia>18.065</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -3721,9 +3721,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>20.382</MajorDia>
-        <PitchDia>19.3</PitchDia>
-        <MinorDia>18.705</MinorDia>
+        <MajorDia>20.246</MajorDia>
+        <PitchDia>19.164</PitchDia>
+        <MinorDia>18.569</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -3755,9 +3755,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>20.331</MajorDia>
-        <PitchDia>19.609</PitchDia>
-        <MinorDia>19.214</MinorDia>
+        <MajorDia>20.195</MajorDia>
+        <PitchDia>19.473</PitchDia>
+        <MinorDia>19.078</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -3789,9 +3789,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>20.303</MajorDia>
-        <PitchDia>19.762</PitchDia>
-        <MinorDia>19.462</MinorDia>
+        <MajorDia>20.167</MajorDia>
+        <PitchDia>19.626</PitchDia>
+        <MinorDia>19.326</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -3823,9 +3823,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>20.275</MajorDia>
-        <PitchDia>19.914</PitchDia>
-        <MinorDia>19.708</MinorDia>
+        <MajorDia>20.139</MajorDia>
+        <PitchDia>19.778</PitchDia>
+        <MinorDia>19.572</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -3860,9 +3860,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>22.475</MajorDia>
-        <PitchDia>20.31</PitchDia>
-        <MinorDia>19.138</MinorDia>
+        <MajorDia>22.243</MajorDia>
+        <PitchDia>20.078</PitchDia>
+        <MinorDia>18.906</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -3894,9 +3894,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>22.428</MajorDia>
-        <PitchDia>20.624</PitchDia>
-        <MinorDia>19.655</MinorDia>
+        <MajorDia>22.196</MajorDia>
+        <PitchDia>20.392</PitchDia>
+        <MinorDia>19.423</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -3928,9 +3928,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>22.386</MajorDia>
-        <PitchDia>20.943</PitchDia>
-        <MinorDia>20.158</MinorDia>
+        <MajorDia>22.154</MajorDia>
+        <PitchDia>20.711</PitchDia>
+        <MinorDia>19.926</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -3962,9 +3962,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>22.339</MajorDia>
-        <PitchDia>21.257</PitchDia>
-        <MinorDia>20.662</MinorDia>
+        <MajorDia>22.107</MajorDia>
+        <PitchDia>21.025</PitchDia>
+        <MinorDia>20.43</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -3996,9 +3996,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>22.288</MajorDia>
-        <PitchDia>21.566</PitchDia>
-        <MinorDia>21.172</MinorDia>
+        <MajorDia>22.056</MajorDia>
+        <PitchDia>21.334</PitchDia>
+        <MinorDia>20.94</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -4030,9 +4030,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>22.26</MajorDia>
-        <PitchDia>21.719</PitchDia>
-        <MinorDia>21.419</MinorDia>
+        <MajorDia>22.028</MajorDia>
+        <PitchDia>21.487</PitchDia>
+        <MinorDia>21.187</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -4064,9 +4064,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>22.232</MajorDia>
-        <PitchDia>21.871</PitchDia>
-        <MinorDia>21.665</MinorDia>
+        <MajorDia>22.0</MajorDia>
+        <PitchDia>21.639</PitchDia>
+        <MinorDia>21.433</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -4101,9 +4101,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>24.45</MajorDia>
-        <PitchDia>22.284</PitchDia>
-        <MinorDia>21.103</MinorDia>
+        <MajorDia>24.085</MajorDia>
+        <PitchDia>21.92</PitchDia>
+        <MinorDia>20.738</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -4135,9 +4135,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>24.406</MajorDia>
-        <PitchDia>22.602</PitchDia>
-        <MinorDia>21.62</MinorDia>
+        <MajorDia>24.041</MajorDia>
+        <PitchDia>22.237</PitchDia>
+        <MinorDia>21.255</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -4169,9 +4169,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>24.357</MajorDia>
-        <PitchDia>22.914</PitchDia>
-        <MinorDia>22.124</MinorDia>
+        <MajorDia>23.992</MajorDia>
+        <PitchDia>22.549</PitchDia>
+        <MinorDia>21.758</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -4203,9 +4203,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>24.309</MajorDia>
-        <PitchDia>23.227</PitchDia>
-        <MinorDia>22.627</MinorDia>
+        <MajorDia>23.944</MajorDia>
+        <PitchDia>22.862</PitchDia>
+        <MinorDia>22.262</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -4237,9 +4237,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>24.258</MajorDia>
-        <PitchDia>23.536</PitchDia>
-        <MinorDia>23.136</MinorDia>
+        <MajorDia>23.893</MajorDia>
+        <PitchDia>23.172</PitchDia>
+        <MinorDia>22.772</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -4271,9 +4271,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>24.23</MajorDia>
-        <PitchDia>23.689</PitchDia>
-        <MinorDia>23.384</MinorDia>
+        <MajorDia>23.865</MajorDia>
+        <PitchDia>23.324</PitchDia>
+        <MinorDia>23.019</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -4308,9 +4308,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>25.344</MajorDia>
-        <PitchDia>23.9</PitchDia>
-        <MinorDia>23.109</MinorDia>
+        <MajorDia>24.898</MajorDia>
+        <PitchDia>23.454</PitchDia>
+        <MinorDia>22.663</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -4342,9 +4342,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>25.295</MajorDia>
-        <PitchDia>24.213</PitchDia>
-        <MinorDia>23.613</MinorDia>
+        <MajorDia>24.849</MajorDia>
+        <PitchDia>23.767</PitchDia>
+        <MinorDia>23.167</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -4376,9 +4376,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>25.244</MajorDia>
-        <PitchDia>24.522</PitchDia>
-        <MinorDia>24.122</MinorDia>
+        <MajorDia>24.798</MajorDia>
+        <PitchDia>24.077</PitchDia>
+        <MinorDia>23.676</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -4413,9 +4413,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>26.282</MajorDia>
-        <PitchDia>25.2</PitchDia>
-        <MinorDia>24.6</MinorDia>
+        <MajorDia>25.744</MajorDia>
+        <PitchDia>24.662</PitchDia>
+        <MinorDia>24.062</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -4450,9 +4450,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>27.412</MajorDia>
-        <PitchDia>25.246</PitchDia>
-        <MinorDia>24.065</MinorDia>
+        <MajorDia>26.771</MajorDia>
+        <PitchDia>24.606</PitchDia>
+        <MinorDia>23.424</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -4484,9 +4484,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>27.319</MajorDia>
-        <PitchDia>25.876</PitchDia>
-        <MinorDia>25.086</MinorDia>
+        <MajorDia>26.678</MajorDia>
+        <PitchDia>25.235</PitchDia>
+        <MinorDia>24.444</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -4518,9 +4518,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>27.271</MajorDia>
-        <PitchDia>26.189</PitchDia>
-        <MinorDia>25.589</MinorDia>
+        <MajorDia>26.63</MajorDia>
+        <PitchDia>25.548</PitchDia>
+        <MinorDia>24.948</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -4552,9 +4552,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>27.22</MajorDia>
-        <PitchDia>26.498</PitchDia>
-        <MinorDia>26.098</MinorDia>
+        <MajorDia>26.579</MajorDia>
+        <PitchDia>25.858</PitchDia>
+        <MinorDia>25.458</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -4586,9 +4586,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>27.192</MajorDia>
-        <PitchDia>26.651</PitchDia>
-        <MinorDia>26.346</MinorDia>
+        <MajorDia>26.551</MajorDia>
+        <PitchDia>26.01</PitchDia>
+        <MinorDia>25.705</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -4623,9 +4623,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>28.31</MajorDia>
-        <PitchDia>26.866</PitchDia>
-        <MinorDia>26.075</MinorDia>
+        <MajorDia>27.554</MajorDia>
+        <PitchDia>26.111</PitchDia>
+        <MinorDia>25.32</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -4657,9 +4657,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>28.261</MajorDia>
-        <PitchDia>27.179</PitchDia>
-        <MinorDia>26.579</MinorDia>
+        <MajorDia>27.506</MajorDia>
+        <PitchDia>26.424</PitchDia>
+        <MinorDia>25.824</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -4691,9 +4691,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>28.21</MajorDia>
-        <PitchDia>27.489</PitchDia>
-        <MinorDia>27.088</MinorDia>
+        <MajorDia>27.455</MajorDia>
+        <PitchDia>26.734</PitchDia>
+        <MinorDia>26.334</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -4728,9 +4728,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>30.43</MajorDia>
-        <PitchDia>27.905</PitchDia>
-        <MinorDia>26.529</MinorDia>
+        <MajorDia>29.408</MajorDia>
+        <PitchDia>26.883</PitchDia>
+        <MinorDia>25.507</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -4762,9 +4762,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>30.387</MajorDia>
-        <PitchDia>28.222</PitchDia>
-        <MinorDia>27.04</MinorDia>
+        <MajorDia>29.365</MajorDia>
+        <PitchDia>27.2</PitchDia>
+        <MinorDia>26.018</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -4796,9 +4796,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>30.343</MajorDia>
-        <PitchDia>28.539</PitchDia>
-        <MinorDia>27.557</MinorDia>
+        <MajorDia>29.321</MajorDia>
+        <PitchDia>27.517</PitchDia>
+        <MinorDia>26.535</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -4830,9 +4830,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>30.294</MajorDia>
-        <PitchDia>28.851</PitchDia>
-        <MinorDia>28.06</MinorDia>
+        <MajorDia>29.272</MajorDia>
+        <PitchDia>27.829</PitchDia>
+        <MinorDia>27.038</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -4864,9 +4864,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>30.246</MajorDia>
-        <PitchDia>29.164</PitchDia>
-        <MinorDia>28.564</MinorDia>
+        <MajorDia>29.224</MajorDia>
+        <PitchDia>28.142</PitchDia>
+        <MinorDia>27.542</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -4898,9 +4898,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>30.195</MajorDia>
-        <PitchDia>29.474</PitchDia>
-        <MinorDia>29.074</MinorDia>
+        <MajorDia>29.173</MajorDia>
+        <PitchDia>28.452</PitchDia>
+        <MinorDia>28.051</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -4932,9 +4932,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>30.167</MajorDia>
-        <PitchDia>29.626</PitchDia>
-        <MinorDia>29.321</MinorDia>
+        <MajorDia>29.145</MajorDia>
+        <PitchDia>28.604</PitchDia>
+        <MinorDia>28.299</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -4969,9 +4969,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>32.284</MajorDia>
-        <PitchDia>30.84</PitchDia>
-        <MinorDia>30.049</MinorDia>
+        <MajorDia>30.94</MajorDia>
+        <PitchDia>29.496</PitchDia>
+        <MinorDia>28.705</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -5003,9 +5003,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>32.235</MajorDia>
-        <PitchDia>31.153</PitchDia>
-        <MinorDia>30.553</MinorDia>
+        <MajorDia>30.891</MajorDia>
+        <PitchDia>29.809</PitchDia>
+        <MinorDia>29.209</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -5040,9 +5040,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>33.414</MajorDia>
-        <PitchDia>30.889</PitchDia>
-        <MinorDia>29.513</MinorDia>
+        <MajorDia>31.888</MajorDia>
+        <PitchDia>29.363</PitchDia>
+        <MinorDia>27.987</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -5074,9 +5074,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>33.371</MajorDia>
-        <PitchDia>31.206</PitchDia>
-        <MinorDia>30.024</MinorDia>
+        <MajorDia>31.845</MajorDia>
+        <PitchDia>29.68</PitchDia>
+        <MinorDia>28.498</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -5108,9 +5108,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>33.278</MajorDia>
-        <PitchDia>31.835</PitchDia>
-        <MinorDia>31.044</MinorDia>
+        <MajorDia>31.752</MajorDia>
+        <PitchDia>30.309</PitchDia>
+        <MinorDia>29.518</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -5142,9 +5142,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>33.23</MajorDia>
-        <PitchDia>32.148</PitchDia>
-        <MinorDia>31.548</MinorDia>
+        <MajorDia>31.704</MajorDia>
+        <PitchDia>30.622</PitchDia>
+        <MinorDia>30.022</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -5176,9 +5176,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>33.179</MajorDia>
-        <PitchDia>32.457</PitchDia>
-        <MinorDia>32.057</MinorDia>
+        <MajorDia>31.653</MajorDia>
+        <PitchDia>30.931</PitchDia>
+        <MinorDia>30.531</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -5210,9 +5210,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>33.151</MajorDia>
-        <PitchDia>32.61</PitchDia>
-        <MinorDia>32.305</MinorDia>
+        <MajorDia>31.625</MajorDia>
+        <PitchDia>31.084</PitchDia>
+        <MinorDia>30.779</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -5247,9 +5247,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>35.223</MajorDia>
-        <PitchDia>34.141</PitchDia>
-        <MinorDia>33.541</MinorDia>
+        <MajorDia>33.284</MajorDia>
+        <PitchDia>32.202</PitchDia>
+        <MinorDia>31.602</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -5284,9 +5284,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>36.451</MajorDia>
-        <PitchDia>33.565</PitchDia>
-        <MinorDia>31.983</MinorDia>
+        <MajorDia>34.28</MajorDia>
+        <PitchDia>31.393</PitchDia>
+        <MinorDia>29.811</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -5318,9 +5318,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>36.362</MajorDia>
-        <PitchDia>34.197</PitchDia>
-        <MinorDia>33.015</MinorDia>
+        <MajorDia>34.19</MajorDia>
+        <PitchDia>32.025</PitchDia>
+        <MinorDia>30.843</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -5352,9 +5352,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>36.27</MajorDia>
-        <PitchDia>34.826</PitchDia>
-        <MinorDia>34.036</MinorDia>
+        <MajorDia>34.098</MajorDia>
+        <PitchDia>32.654</PitchDia>
+        <MinorDia>31.864</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -5386,9 +5386,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>36.221</MajorDia>
-        <PitchDia>35.139</PitchDia>
-        <MinorDia>34.539</MinorDia>
+        <MajorDia>34.049</MajorDia>
+        <PitchDia>32.967</PitchDia>
+        <MinorDia>32.367</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -5420,9 +5420,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>36.17</MajorDia>
-        <PitchDia>35.448</PitchDia>
-        <MinorDia>35.048</MinorDia>
+        <MajorDia>33.998</MajorDia>
+        <PitchDia>33.276</PitchDia>
+        <MinorDia>32.876</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -5457,9 +5457,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>38.217</MajorDia>
-        <PitchDia>37.135</PitchDia>
-        <MinorDia>36.535</MinorDia>
+        <MajorDia>35.529</MajorDia>
+        <PitchDia>34.447</PitchDia>
+        <MinorDia>33.847</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -5494,9 +5494,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>39.446</MajorDia>
-        <PitchDia>36.559</PitchDia>
-        <MinorDia>34.977</MinorDia>
+        <MajorDia>36.473</MajorDia>
+        <PitchDia>33.586</PitchDia>
+        <MinorDia>32.004</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -5528,9 +5528,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>39.356</MajorDia>
-        <PitchDia>37.191</PitchDia>
-        <MinorDia>36.009</MinorDia>
+        <MajorDia>36.383</MajorDia>
+        <PitchDia>34.218</PitchDia>
+        <MinorDia>33.036</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -5562,9 +5562,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>39.264</MajorDia>
-        <PitchDia>37.82</PitchDia>
-        <MinorDia>37.03</MinorDia>
+        <MajorDia>36.29</MajorDia>
+        <PitchDia>34.847</PitchDia>
+        <MinorDia>34.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -5596,9 +5596,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>39.215</MajorDia>
-        <PitchDia>38.133</PitchDia>
-        <MinorDia>37.533</MinorDia>
+        <MajorDia>36.242</MajorDia>
+        <PitchDia>35.16</PitchDia>
+        <MinorDia>34.56</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -5630,9 +5630,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>39.164</MajorDia>
-        <PitchDia>38.442</PitchDia>
-        <MinorDia>38.042</MinorDia>
+        <MajorDia>36.191</MajorDia>
+        <PitchDia>35.47</PitchDia>
+        <MinorDia>35.07</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -5667,9 +5667,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>40.355</MajorDia>
-        <PitchDia>38.19</PitchDia>
-        <MinorDia>37.008</MinorDia>
+        <MajorDia>37.078</MajorDia>
+        <PitchDia>34.913</PitchDia>
+        <MinorDia>33.731</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -5701,9 +5701,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>40.311</MajorDia>
-        <PitchDia>38.507</PitchDia>
-        <MinorDia>37.525</MinorDia>
+        <MajorDia>37.034</MajorDia>
+        <PitchDia>35.23</PitchDia>
+        <MinorDia>34.248</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -5735,9 +5735,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>40.262</MajorDia>
-        <PitchDia>38.819</PitchDia>
-        <MinorDia>38.028</MinorDia>
+        <MajorDia>36.986</MajorDia>
+        <PitchDia>35.542</PitchDia>
+        <MinorDia>34.751</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -5769,9 +5769,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>40.214</MajorDia>
-        <PitchDia>39.132</PitchDia>
-        <MinorDia>38.532</MinorDia>
+        <MajorDia>36.937</MajorDia>
+        <PitchDia>35.855</PitchDia>
+        <MinorDia>35.255</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -5806,9 +5806,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>42.486</MajorDia>
-        <PitchDia>39.238</PitchDia>
-        <MinorDia>37.468</MinorDia>
+        <MajorDia>38.544</MajorDia>
+        <PitchDia>35.296</PitchDia>
+        <MinorDia>33.526</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -5840,9 +5840,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>42.443</MajorDia>
-        <PitchDia>39.556</PitchDia>
-        <MinorDia>37.974</MinorDia>
+        <MajorDia>38.501</MajorDia>
+        <PitchDia>35.614</PitchDia>
+        <MinorDia>34.032</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -5874,9 +5874,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>42.353</MajorDia>
-        <PitchDia>40.188</PitchDia>
-        <MinorDia>39.006</MinorDia>
+        <MajorDia>38.411</MajorDia>
+        <PitchDia>36.246</PitchDia>
+        <MinorDia>35.064</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -5908,9 +5908,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>42.26</MajorDia>
-        <PitchDia>40.817</PitchDia>
-        <MinorDia>40.026</MinorDia>
+        <MajorDia>38.318</MajorDia>
+        <PitchDia>36.875</PitchDia>
+        <MinorDia>36.084</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -5942,9 +5942,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>42.212</MajorDia>
-        <PitchDia>41.13</PitchDia>
-        <MinorDia>40.53</MinorDia>
+        <MajorDia>38.27</MajorDia>
+        <PitchDia>37.188</PitchDia>
+        <MinorDia>36.588</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -5976,9 +5976,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>42.161</MajorDia>
-        <PitchDia>41.439</PitchDia>
-        <MinorDia>41.04</MinorDia>
+        <MajorDia>38.219</MajorDia>
+        <PitchDia>37.497</PitchDia>
+        <MinorDia>37.098</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -6013,9 +6013,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>45.484</MajorDia>
-        <PitchDia>42.237</PitchDia>
-        <MinorDia>40.466</MinorDia>
+        <MajorDia>40.408</MajorDia>
+        <PitchDia>37.161</PitchDia>
+        <MinorDia>35.39</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -6047,9 +6047,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>45.441</MajorDia>
-        <PitchDia>42.554</PitchDia>
-        <MinorDia>40.972</MinorDia>
+        <MajorDia>40.365</MajorDia>
+        <PitchDia>37.478</PitchDia>
+        <MinorDia>35.896</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -6081,9 +6081,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>45.351</MajorDia>
-        <PitchDia>43.186</PitchDia>
-        <MinorDia>42.004</MinorDia>
+        <MajorDia>40.275</MajorDia>
+        <PitchDia>38.11</PitchDia>
+        <MinorDia>36.928</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -6115,9 +6115,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>45.259</MajorDia>
-        <PitchDia>43.815</PitchDia>
-        <MinorDia>43.024</MinorDia>
+        <MajorDia>40.183</MajorDia>
+        <PitchDia>38.739</PitchDia>
+        <MinorDia>37.948</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -6149,9 +6149,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>45.21</MajorDia>
-        <PitchDia>44.128</PitchDia>
-        <MinorDia>43.528</MinorDia>
+        <MajorDia>40.134</MajorDia>
+        <PitchDia>39.052</PitchDia>
+        <MinorDia>38.452</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -6183,9 +6183,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>45.159</MajorDia>
-        <PitchDia>44.438</PitchDia>
-        <MinorDia>44.038</MinorDia>
+        <MajorDia>40.083</MajorDia>
+        <PitchDia>39.362</PitchDia>
+        <MinorDia>38.962</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -6220,9 +6220,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>48.528</MajorDia>
-        <PitchDia>44.92</PitchDia>
-        <MinorDia>42.942</MinorDia>
+        <MajorDia>42.172</MajorDia>
+        <PitchDia>38.562</PitchDia>
+        <MinorDia>36.585</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -6254,9 +6254,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>48.446</MajorDia>
-        <PitchDia>45.559</PitchDia>
-        <MinorDia>43.97</MinorDia>
+        <MajorDia>42.089</MajorDia>
+        <PitchDia>39.202</PitchDia>
+        <MinorDia>37.613</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -6288,9 +6288,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>48.356</MajorDia>
-        <PitchDia>46.191</PitchDia>
-        <MinorDia>45.002</MinorDia>
+        <MajorDia>41.999</MajorDia>
+        <PitchDia>39.834</PitchDia>
+        <MinorDia>38.645</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -6322,9 +6322,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>48.262</MajorDia>
-        <PitchDia>46.819</PitchDia>
-        <MinorDia>46.022</MinorDia>
+        <MajorDia>41.906</MajorDia>
+        <PitchDia>40.462</PitchDia>
+        <MinorDia>39.666</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -6356,9 +6356,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>48.214</MajorDia>
-        <PitchDia>47.132</PitchDia>
-        <MinorDia>46.526</MinorDia>
+        <MajorDia>41.857</MajorDia>
+        <PitchDia>40.775</PitchDia>
+        <MinorDia>40.169</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -6393,9 +6393,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>50.446</MajorDia>
-        <PitchDia>47.559</PitchDia>
-        <MinorDia>45.97</MinorDia>
+        <MajorDia>43.169</MajorDia>
+        <PitchDia>40.282</PitchDia>
+        <MinorDia>38.693</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -6427,9 +6427,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>50.356</MajorDia>
-        <PitchDia>48.191</PitchDia>
-        <MinorDia>47.002</MinorDia>
+        <MajorDia>43.079</MajorDia>
+        <PitchDia>40.914</PitchDia>
+        <MinorDia>39.725</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -6461,9 +6461,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>50.262</MajorDia>
-        <PitchDia>48.819</PitchDia>
-        <MinorDia>48.022</MinorDia>
+        <MajorDia>42.985</MajorDia>
+        <PitchDia>41.542</PitchDia>
+        <MinorDia>40.745</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -6495,9 +6495,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>50.214</MajorDia>
-        <PitchDia>49.132</PitchDia>
-        <MinorDia>48.526</MinorDia>
+        <MajorDia>42.937</MajorDia>
+        <PitchDia>41.855</PitchDia>
+        <MinorDia>41.249</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -6532,9 +6532,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>52.518</MajorDia>
-        <PitchDia>48.91</PitchDia>
-        <MinorDia>46.942</MinorDia>
+        <MajorDia>44.287</MajorDia>
+        <PitchDia>40.679</PitchDia>
+        <MinorDia>38.711</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -6566,9 +6566,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>52.446</MajorDia>
-        <PitchDia>49.559</PitchDia>
-        <MinorDia>47.97</MinorDia>
+        <MajorDia>44.215</MajorDia>
+        <PitchDia>41.328</PitchDia>
+        <MinorDia>39.739</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -6600,9 +6600,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>52.356</MajorDia>
-        <PitchDia>50.191</PitchDia>
-        <MinorDia>49.002</MinorDia>
+        <MajorDia>44.125</MajorDia>
+        <PitchDia>41.96</PitchDia>
+        <MinorDia>40.771</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -6634,9 +6634,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>52.262</MajorDia>
-        <PitchDia>50.819</PitchDia>
-        <MinorDia>50.022</MinorDia>
+        <MajorDia>44.031</MajorDia>
+        <PitchDia>42.588</PitchDia>
+        <MinorDia>41.791</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -6668,9 +6668,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>52.214</MajorDia>
-        <PitchDia>51.132</PitchDia>
-        <MinorDia>50.526</MinorDia>
+        <MajorDia>43.983</MajorDia>
+        <PitchDia>42.901</PitchDia>
+        <MinorDia>42.295</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -6705,9 +6705,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>55.445</MajorDia>
-        <PitchDia>52.558</PitchDia>
-        <MinorDia>50.969</MinorDia>
+        <MajorDia>45.758</MajorDia>
+        <PitchDia>42.871</PitchDia>
+        <MinorDia>41.282</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -6739,9 +6739,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>55.355</MajorDia>
-        <PitchDia>53.19</PitchDia>
-        <MinorDia>52.001</MinorDia>
+        <MajorDia>45.668</MajorDia>
+        <PitchDia>43.503</PitchDia>
+        <MinorDia>42.314</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -6773,9 +6773,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>55.261</MajorDia>
-        <PitchDia>53.818</PitchDia>
-        <MinorDia>53.021</MinorDia>
+        <MajorDia>45.574</MajorDia>
+        <PitchDia>44.131</PitchDia>
+        <MinorDia>43.334</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -6807,9 +6807,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>55.213</MajorDia>
-        <PitchDia>54.131</PitchDia>
-        <MinorDia>53.525</MinorDia>
+        <MajorDia>45.526</MajorDia>
+        <PitchDia>44.444</PitchDia>
+        <MinorDia>43.838</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -6844,9 +6844,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>56.668</MajorDia>
-        <PitchDia>51.977</PitchDia>
-        <MinorDia>49.388</MinorDia>
+        <MajorDia>46.498</MajorDia>
+        <PitchDia>41.807</PitchDia>
+        <MinorDia>39.218</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -6878,9 +6878,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>56.574</MajorDia>
-        <PitchDia>52.604</PitchDia>
-        <MinorDia>50.42</MinorDia>
+        <MajorDia>46.404</MajorDia>
+        <PitchDia>42.434</PitchDia>
+        <MinorDia>40.25</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -6912,9 +6912,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>56.445</MajorDia>
-        <PitchDia>53.558</PitchDia>
-        <MinorDia>51.969</MinorDia>
+        <MajorDia>46.275</MajorDia>
+        <PitchDia>43.388</PitchDia>
+        <MinorDia>41.799</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -6946,9 +6946,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>56.355</MajorDia>
-        <PitchDia>54.19</PitchDia>
-        <MinorDia>53.001</MinorDia>
+        <MajorDia>46.185</MajorDia>
+        <PitchDia>44.02</PitchDia>
+        <MinorDia>42.831</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -6980,9 +6980,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>56.262</MajorDia>
-        <PitchDia>54.818</PitchDia>
-        <MinorDia>54.022</MinorDia>
+        <MajorDia>46.092</MajorDia>
+        <PitchDia>44.648</PitchDia>
+        <MinorDia>43.852</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -7014,9 +7014,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>56.213</MajorDia>
-        <PitchDia>55.131</PitchDia>
-        <MinorDia>54.525</MinorDia>
+        <MajorDia>46.043</MajorDia>
+        <PitchDia>44.961</PitchDia>
+        <MinorDia>44.355</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -7048,9 +7048,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>56.166</MajorDia>
-        <PitchDia>55.445</PitchDia>
-        <MinorDia>55.034</MinorDia>
+        <MajorDia>45.996</MajorDia>
+        <PitchDia>45.274</PitchDia>
+        <MinorDia>44.864</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -7085,9 +7085,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>58.445</MajorDia>
-        <PitchDia>55.558</PitchDia>
-        <MinorDia>53.969</MinorDia>
+        <MajorDia>47.326</MajorDia>
+        <PitchDia>44.439</PitchDia>
+        <MinorDia>42.85</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -7119,9 +7119,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>58.355</MajorDia>
-        <PitchDia>56.19</PitchDia>
-        <MinorDia>55.001</MinorDia>
+        <MajorDia>47.236</MajorDia>
+        <PitchDia>45.071</PitchDia>
+        <MinorDia>43.882</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -7153,9 +7153,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>58.261</MajorDia>
-        <PitchDia>56.818</PitchDia>
-        <MinorDia>56.021</MinorDia>
+        <MajorDia>47.142</MajorDia>
+        <PitchDia>45.699</PitchDia>
+        <MinorDia>44.902</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -7187,9 +7187,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>58.213</MajorDia>
-        <PitchDia>57.131</PitchDia>
-        <MinorDia>56.525</MinorDia>
+        <MajorDia>47.094</MajorDia>
+        <PitchDia>46.012</PitchDia>
+        <MinorDia>45.406</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -7224,9 +7224,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>60.573</MajorDia>
-        <PitchDia>56.604</PitchDia>
-        <MinorDia>54.42</MinorDia>
+        <MajorDia>48.543</MajorDia>
+        <PitchDia>44.574</PitchDia>
+        <MinorDia>42.39</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -7258,9 +7258,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>60.445</MajorDia>
-        <PitchDia>57.558</PitchDia>
-        <MinorDia>55.969</MinorDia>
+        <MajorDia>48.415</MajorDia>
+        <PitchDia>45.528</PitchDia>
+        <MinorDia>43.939</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -7292,9 +7292,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>60.355</MajorDia>
-        <PitchDia>58.19</PitchDia>
-        <MinorDia>57.001</MinorDia>
+        <MajorDia>48.325</MajorDia>
+        <PitchDia>46.16</PitchDia>
+        <MinorDia>44.971</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -7326,9 +7326,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>60.261</MajorDia>
-        <PitchDia>58.818</PitchDia>
-        <MinorDia>58.021</MinorDia>
+        <MajorDia>48.231</MajorDia>
+        <PitchDia>46.788</PitchDia>
+        <MinorDia>45.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -7360,9 +7360,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>60.213</MajorDia>
-        <PitchDia>59.131</PitchDia>
-        <MinorDia>58.525</MinorDia>
+        <MajorDia>48.183</MajorDia>
+        <PitchDia>47.101</PitchDia>
+        <MinorDia>46.495</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -7394,9 +7394,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>60.166</MajorDia>
-        <PitchDia>59.445</PitchDia>
-        <MinorDia>59.034</MinorDia>
+        <MajorDia>48.136</MajorDia>
+        <PitchDia>47.415</PitchDia>
+        <MinorDia>47.004</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -7431,9 +7431,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>62.445</MajorDia>
-        <PitchDia>59.558</PitchDia>
-        <MinorDia>57.969</MinorDia>
+        <MajorDia>49.556</MajorDia>
+        <PitchDia>46.669</PitchDia>
+        <MinorDia>45.08</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -7465,9 +7465,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>62.355</MajorDia>
-        <PitchDia>60.19</PitchDia>
-        <MinorDia>59.001</MinorDia>
+        <MajorDia>49.466</MajorDia>
+        <PitchDia>47.301</PitchDia>
+        <MinorDia>46.112</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -7499,9 +7499,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>62.261</MajorDia>
-        <PitchDia>60.818</PitchDia>
-        <MinorDia>60.021</MinorDia>
+        <MajorDia>49.372</MajorDia>
+        <PitchDia>47.929</PitchDia>
+        <MinorDia>47.132</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -7533,9 +7533,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>62.213</MajorDia>
-        <PitchDia>61.131</PitchDia>
-        <MinorDia>60.525</MinorDia>
+        <MajorDia>49.324</MajorDia>
+        <PitchDia>48.242</PitchDia>
+        <MinorDia>47.636</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -7570,9 +7570,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>63.213</MajorDia>
-        <PitchDia>62.131</PitchDia>
-        <MinorDia>61.525</MinorDia>
+        <MajorDia>49.918</MajorDia>
+        <PitchDia>48.836</PitchDia>
+        <MinorDia>48.23</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -7607,9 +7607,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>64.62</MajorDia>
-        <PitchDia>60.29</PitchDia>
-        <MinorDia>57.904</MinorDia>
+        <MajorDia>50.936</MajorDia>
+        <PitchDia>46.606</PitchDia>
+        <MinorDia>44.22</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -7641,9 +7641,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>64.573</MajorDia>
-        <PitchDia>60.604</PitchDia>
-        <MinorDia>58.42</MinorDia>
+        <MajorDia>50.889</MajorDia>
+        <PitchDia>46.92</PitchDia>
+        <MinorDia>44.736</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -7675,9 +7675,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>64.445</MajorDia>
-        <PitchDia>61.558</PitchDia>
-        <MinorDia>59.969</MinorDia>
+        <MajorDia>50.761</MajorDia>
+        <PitchDia>47.874</PitchDia>
+        <MinorDia>46.285</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -7709,9 +7709,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>64.355</MajorDia>
-        <PitchDia>62.19</PitchDia>
-        <MinorDia>61.001</MinorDia>
+        <MajorDia>50.671</MajorDia>
+        <PitchDia>48.506</PitchDia>
+        <MinorDia>47.317</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -7743,9 +7743,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>64.262</MajorDia>
-        <PitchDia>62.818</PitchDia>
-        <MinorDia>62.022</MinorDia>
+        <MajorDia>50.578</MajorDia>
+        <PitchDia>49.134</PitchDia>
+        <MinorDia>48.338</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -7777,9 +7777,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>64.213</MajorDia>
-        <PitchDia>63.131</PitchDia>
-        <MinorDia>62.525</MinorDia>
+        <MajorDia>50.529</MajorDia>
+        <PitchDia>49.447</PitchDia>
+        <MinorDia>48.841</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -7811,9 +7811,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>64.166</MajorDia>
-        <PitchDia>63.445</PitchDia>
-        <MinorDia>63.034</MinorDia>
+        <MajorDia>50.482</MajorDia>
+        <PitchDia>49.76</PitchDia>
+        <MinorDia>49.35</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -7848,9 +7848,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>65.445</MajorDia>
-        <PitchDia>62.558</PitchDia>
-        <MinorDia>60.969</MinorDia>
+        <MajorDia>51.389</MajorDia>
+        <PitchDia>48.502</PitchDia>
+        <MinorDia>46.913</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -7882,9 +7882,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>65.355</MajorDia>
-        <PitchDia>63.19</PitchDia>
-        <MinorDia>62.001</MinorDia>
+        <MajorDia>51.299</MajorDia>
+        <PitchDia>49.134</PitchDia>
+        <MinorDia>47.945</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -7916,9 +7916,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>65.261</MajorDia>
-        <PitchDia>63.818</PitchDia>
-        <MinorDia>63.021</MinorDia>
+        <MajorDia>51.205</MajorDia>
+        <PitchDia>49.762</PitchDia>
+        <MinorDia>48.965</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -7950,9 +7950,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>65.213</MajorDia>
-        <PitchDia>64.131</PitchDia>
-        <MinorDia>63.525</MinorDia>
+        <MajorDia>51.157</MajorDia>
+        <PitchDia>50.075</PitchDia>
+        <MinorDia>49.469</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -7987,9 +7987,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>68.62</MajorDia>
-        <PitchDia>64.289</PitchDia>
-        <MinorDia>61.904</MinorDia>
+        <MajorDia>53.559</MajorDia>
+        <PitchDia>49.228</PitchDia>
+        <MinorDia>46.843</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -8021,9 +8021,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>68.445</MajorDia>
-        <PitchDia>65.558</PitchDia>
-        <MinorDia>63.969</MinorDia>
+        <MajorDia>53.384</MajorDia>
+        <PitchDia>50.497</PitchDia>
+        <MinorDia>48.908</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -8055,9 +8055,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>68.355</MajorDia>
-        <PitchDia>66.19</PitchDia>
-        <MinorDia>65.001</MinorDia>
+        <MajorDia>53.294</MajorDia>
+        <PitchDia>51.129</PitchDia>
+        <MinorDia>49.94</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -8089,9 +8089,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>68.261</MajorDia>
-        <PitchDia>66.818</PitchDia>
-        <MinorDia>66.021</MinorDia>
+        <MajorDia>53.2</MajorDia>
+        <PitchDia>51.757</PitchDia>
+        <MinorDia>50.96</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -8123,9 +8123,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>68.213</MajorDia>
-        <PitchDia>67.131</PitchDia>
-        <MinorDia>66.525</MinorDia>
+        <MajorDia>53.152</MajorDia>
+        <PitchDia>52.07</PitchDia>
+        <MinorDia>51.464</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -8157,9 +8157,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>68.166</MajorDia>
-        <PitchDia>67.444</PitchDia>
-        <MinorDia>67.034</MinorDia>
+        <MajorDia>53.105</MajorDia>
+        <PitchDia>52.384</PitchDia>
+        <MinorDia>51.974</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -8194,9 +8194,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>70.62</MajorDia>
-        <PitchDia>66.289</PitchDia>
-        <MinorDia>63.904</MinorDia>
+        <MajorDia>54.981</MajorDia>
+        <PitchDia>50.65</PitchDia>
+        <MinorDia>48.265</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -8228,9 +8228,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>70.445</MajorDia>
-        <PitchDia>67.558</PitchDia>
-        <MinorDia>65.969</MinorDia>
+        <MajorDia>54.806</MajorDia>
+        <PitchDia>51.919</PitchDia>
+        <MinorDia>50.33</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -8262,9 +8262,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>70.355</MajorDia>
-        <PitchDia>68.19</PitchDia>
-        <MinorDia>67.001</MinorDia>
+        <MajorDia>54.716</MajorDia>
+        <PitchDia>52.551</PitchDia>
+        <MinorDia>51.362</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -8296,9 +8296,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>70.261</MajorDia>
-        <PitchDia>68.818</PitchDia>
-        <MinorDia>68.021</MinorDia>
+        <MajorDia>54.622</MajorDia>
+        <PitchDia>53.179</PitchDia>
+        <MinorDia>52.382</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -8330,9 +8330,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>70.213</MajorDia>
-        <PitchDia>69.131</PitchDia>
-        <MinorDia>68.525</MinorDia>
+        <MajorDia>54.574</MajorDia>
+        <PitchDia>53.492</PitchDia>
+        <MinorDia>52.886</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -8367,9 +8367,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>72.62</MajorDia>
-        <PitchDia>68.289</PitchDia>
-        <MinorDia>65.904</MinorDia>
+        <MajorDia>56.475</MajorDia>
+        <PitchDia>52.144</PitchDia>
+        <MinorDia>49.759</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -8401,9 +8401,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>72.445</MajorDia>
-        <PitchDia>69.558</PitchDia>
-        <MinorDia>67.969</MinorDia>
+        <MajorDia>56.3</MajorDia>
+        <PitchDia>53.413</PitchDia>
+        <MinorDia>51.824</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -8435,9 +8435,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>72.355</MajorDia>
-        <PitchDia>70.19</PitchDia>
-        <MinorDia>69.001</MinorDia>
+        <MajorDia>56.21</MajorDia>
+        <PitchDia>54.045</PitchDia>
+        <MinorDia>52.856</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -8469,9 +8469,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>72.262</MajorDia>
-        <PitchDia>70.818</PitchDia>
-        <MinorDia>70.021</MinorDia>
+        <MajorDia>56.116</MajorDia>
+        <PitchDia>54.673</PitchDia>
+        <MinorDia>53.876</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -8503,9 +8503,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>72.213</MajorDia>
-        <PitchDia>71.131</PitchDia>
-        <MinorDia>70.525</MinorDia>
+        <MajorDia>56.068</MajorDia>
+        <PitchDia>54.986</PitchDia>
+        <MinorDia>54.38</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -8537,9 +8537,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>72.166</MajorDia>
-        <PitchDia>71.444</PitchDia>
-        <MinorDia>71.034</MinorDia>
+        <MajorDia>56.021</MajorDia>
+        <PitchDia>55.299</PitchDia>
+        <MinorDia>54.89</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -8574,9 +8574,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>75.62</MajorDia>
-        <PitchDia>71.289</PitchDia>
-        <MinorDia>68.904</MinorDia>
+        <MajorDia>58.84</MajorDia>
+        <PitchDia>54.509</PitchDia>
+        <MinorDia>52.124</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -8608,9 +8608,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>75.445</MajorDia>
-        <PitchDia>72.558</PitchDia>
-        <MinorDia>70.969</MinorDia>
+        <MajorDia>58.665</MajorDia>
+        <PitchDia>55.778</PitchDia>
+        <MinorDia>54.189</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -8642,9 +8642,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>75.355</MajorDia>
-        <PitchDia>73.19</PitchDia>
-        <MinorDia>72.001</MinorDia>
+        <MajorDia>58.575</MajorDia>
+        <PitchDia>56.41</PitchDia>
+        <MinorDia>55.221</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -8676,9 +8676,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>75.261</MajorDia>
-        <PitchDia>73.818</PitchDia>
-        <MinorDia>73.021</MinorDia>
+        <MajorDia>58.481</MajorDia>
+        <PitchDia>57.038</PitchDia>
+        <MinorDia>56.241</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -8710,9 +8710,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>75.213</MajorDia>
-        <PitchDia>74.131</PitchDia>
-        <MinorDia>73.525</MinorDia>
+        <MajorDia>58.433</MajorDia>
+        <PitchDia>57.351</PitchDia>
+        <MinorDia>56.745</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -8747,9 +8747,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>76.62</MajorDia>
-        <PitchDia>72.289</PitchDia>
-        <MinorDia>69.904</MinorDia>
+        <MajorDia>59.658</MajorDia>
+        <PitchDia>55.327</PitchDia>
+        <MinorDia>52.942</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -8781,9 +8781,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>76.445</MajorDia>
-        <PitchDia>73.558</PitchDia>
-        <MinorDia>71.969</MinorDia>
+        <MajorDia>59.483</MajorDia>
+        <PitchDia>56.596</PitchDia>
+        <MinorDia>55.007</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -8815,9 +8815,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>76.355</MajorDia>
-        <PitchDia>74.19</PitchDia>
-        <MinorDia>73.001</MinorDia>
+        <MajorDia>59.393</MajorDia>
+        <PitchDia>57.228</PitchDia>
+        <MinorDia>56.039</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -8849,9 +8849,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>76.261</MajorDia>
-        <PitchDia>74.818</PitchDia>
-        <MinorDia>74.021</MinorDia>
+        <MajorDia>59.299</MajorDia>
+        <PitchDia>57.856</PitchDia>
+        <MinorDia>57.059</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -8883,9 +8883,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>76.213</MajorDia>
-        <PitchDia>75.131</PitchDia>
-        <MinorDia>74.525</MinorDia>
+        <MajorDia>59.251</MajorDia>
+        <PitchDia>58.169</PitchDia>
+        <MinorDia>57.563</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -8917,9 +8917,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>76.166</MajorDia>
-        <PitchDia>75.444</PitchDia>
-        <MinorDia>75.034</MinorDia>
+        <MajorDia>59.204</MajorDia>
+        <PitchDia>58.482</PitchDia>
+        <MinorDia>58.072</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -8954,9 +8954,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>78.261</MajorDia>
-        <PitchDia>76.818</PitchDia>
-        <MinorDia>76.021</MinorDia>
+        <MajorDia>60.977</MajorDia>
+        <PitchDia>59.534</PitchDia>
+        <MinorDia>58.737</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -8991,9 +8991,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>80.62</MajorDia>
-        <PitchDia>76.289</PitchDia>
-        <MinorDia>73.904</MinorDia>
+        <MajorDia>63.063</MajorDia>
+        <PitchDia>58.732</PitchDia>
+        <MinorDia>56.347</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -9025,9 +9025,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>80.445</MajorDia>
-        <PitchDia>77.558</PitchDia>
-        <MinorDia>75.969</MinorDia>
+        <MajorDia>62.888</MajorDia>
+        <PitchDia>60.001</PitchDia>
+        <MinorDia>58.412</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -9059,9 +9059,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>80.355</MajorDia>
-        <PitchDia>78.19</PitchDia>
-        <MinorDia>77.001</MinorDia>
+        <MajorDia>62.798</MajorDia>
+        <PitchDia>60.633</PitchDia>
+        <MinorDia>59.444</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -9093,9 +9093,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>80.262</MajorDia>
-        <PitchDia>78.818</PitchDia>
-        <MinorDia>78.021</MinorDia>
+        <MajorDia>62.704</MajorDia>
+        <PitchDia>61.261</PitchDia>
+        <MinorDia>60.464</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -9127,9 +9127,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>80.213</MajorDia>
-        <PitchDia>79.131</PitchDia>
-        <MinorDia>78.525</MinorDia>
+        <MajorDia>62.656</MajorDia>
+        <PitchDia>61.574</PitchDia>
+        <MinorDia>60.968</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -9161,9 +9161,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>80.166</MajorDia>
-        <PitchDia>79.444</PitchDia>
-        <MinorDia>79.034</MinorDia>
+        <MajorDia>62.609</MajorDia>
+        <PitchDia>61.887</PitchDia>
+        <MinorDia>61.478</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -9198,9 +9198,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>82.261</MajorDia>
-        <PitchDia>80.818</PitchDia>
-        <MinorDia>80.021</MinorDia>
+        <MajorDia>64.474</MajorDia>
+        <PitchDia>63.031</PitchDia>
+        <MinorDia>62.234</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -9235,9 +9235,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>85.62</MajorDia>
-        <PitchDia>81.289</PitchDia>
-        <MinorDia>78.904</MinorDia>
+        <MajorDia>67.556</MajorDia>
+        <PitchDia>63.225</PitchDia>
+        <MinorDia>60.84</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -9269,9 +9269,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>85.445</MajorDia>
-        <PitchDia>82.558</PitchDia>
-        <MinorDia>80.969</MinorDia>
+        <MajorDia>67.381</MajorDia>
+        <PitchDia>64.494</PitchDia>
+        <MinorDia>62.905</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -9303,9 +9303,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>85.355</MajorDia>
-        <PitchDia>83.19</PitchDia>
-        <MinorDia>82.001</MinorDia>
+        <MajorDia>67.291</MajorDia>
+        <PitchDia>65.126</PitchDia>
+        <MinorDia>63.937</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -9337,9 +9337,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>85.262</MajorDia>
-        <PitchDia>83.818</PitchDia>
-        <MinorDia>83.021</MinorDia>
+        <MajorDia>67.198</MajorDia>
+        <PitchDia>65.754</PitchDia>
+        <MinorDia>64.957</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -9371,9 +9371,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>85.213</MajorDia>
-        <PitchDia>84.131</PitchDia>
-        <MinorDia>83.525</MinorDia>
+        <MajorDia>67.149</MajorDia>
+        <PitchDia>66.067</PitchDia>
+        <MinorDia>65.461</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -9408,9 +9408,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>90.62</MajorDia>
-        <PitchDia>86.289</PitchDia>
-        <MinorDia>83.904</MinorDia>
+        <MajorDia>72.232</MajorDia>
+        <PitchDia>67.902</PitchDia>
+        <MinorDia>65.517</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -9442,9 +9442,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>90.445</MajorDia>
-        <PitchDia>87.558</PitchDia>
-        <MinorDia>85.969</MinorDia>
+        <MajorDia>72.058</MajorDia>
+        <PitchDia>69.171</PitchDia>
+        <MinorDia>67.582</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -9476,9 +9476,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>90.355</MajorDia>
-        <PitchDia>88.19</PitchDia>
-        <MinorDia>87.001</MinorDia>
+        <MajorDia>71.968</MajorDia>
+        <PitchDia>69.803</PitchDia>
+        <MinorDia>68.614</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -9510,9 +9510,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>90.262</MajorDia>
-        <PitchDia>88.818</PitchDia>
-        <MinorDia>88.021</MinorDia>
+        <MajorDia>71.874</MajorDia>
+        <PitchDia>70.431</PitchDia>
+        <MinorDia>69.634</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -9544,9 +9544,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>90.213</MajorDia>
-        <PitchDia>89.131</PitchDia>
-        <MinorDia>88.525</MinorDia>
+        <MajorDia>71.826</MajorDia>
+        <PitchDia>70.744</PitchDia>
+        <MinorDia>70.138</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -9581,9 +9581,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>95.632</MajorDia>
-        <PitchDia>91.302</PitchDia>
-        <MinorDia>88.904</MinorDia>
+        <MajorDia>77.043</MajorDia>
+        <PitchDia>72.713</PitchDia>
+        <MinorDia>70.315</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -9615,9 +9615,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>95.455</MajorDia>
-        <PitchDia>92.568</PitchDia>
-        <MinorDia>90.969</MinorDia>
+        <MajorDia>76.866</MajorDia>
+        <PitchDia>73.979</PitchDia>
+        <MinorDia>72.38</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -9649,9 +9649,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>95.366</MajorDia>
-        <PitchDia>93.2</PitchDia>
-        <MinorDia>92.001</MinorDia>
+        <MajorDia>76.776</MajorDia>
+        <PitchDia>74.611</PitchDia>
+        <MinorDia>73.412</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -9683,9 +9683,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>95.268</MajorDia>
-        <PitchDia>93.825</PitchDia>
-        <MinorDia>93.021</MinorDia>
+        <MajorDia>76.679</MajorDia>
+        <PitchDia>75.236</PitchDia>
+        <MinorDia>74.432</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -9717,9 +9717,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>95.225</MajorDia>
-        <PitchDia>94.143</PitchDia>
-        <MinorDia>93.525</MinorDia>
+        <MajorDia>76.636</MajorDia>
+        <PitchDia>75.554</PitchDia>
+        <MinorDia>74.936</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -9754,9 +9754,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>100.632</MajorDia>
-        <PitchDia>96.302</PitchDia>
-        <MinorDia>93.904</MinorDia>
+        <MajorDia>81.917</MajorDia>
+        <PitchDia>77.587</PitchDia>
+        <MinorDia>75.189</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -9788,9 +9788,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>100.455</MajorDia>
-        <PitchDia>97.568</PitchDia>
-        <MinorDia>95.969</MinorDia>
+        <MajorDia>81.74</MajorDia>
+        <PitchDia>78.853</PitchDia>
+        <MinorDia>77.254</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -9822,9 +9822,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>100.366</MajorDia>
-        <PitchDia>98.2</PitchDia>
-        <MinorDia>97.001</MinorDia>
+        <MajorDia>81.65</MajorDia>
+        <PitchDia>79.485</PitchDia>
+        <MinorDia>78.286</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -9856,9 +9856,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>100.268</MajorDia>
-        <PitchDia>98.825</PitchDia>
-        <MinorDia>98.021</MinorDia>
+        <MajorDia>81.553</MajorDia>
+        <PitchDia>80.11</PitchDia>
+        <MinorDia>79.306</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -9890,9 +9890,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>100.225</MajorDia>
-        <PitchDia>99.143</PitchDia>
-        <MinorDia>98.525</MinorDia>
+        <MajorDia>81.51</MajorDia>
+        <PitchDia>80.428</PitchDia>
+        <MinorDia>79.81</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -9927,9 +9927,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>105.632</MajorDia>
-        <PitchDia>101.302</PitchDia>
-        <MinorDia>98.904</MinorDia>
+        <MajorDia>86.84</MajorDia>
+        <PitchDia>82.51</PitchDia>
+        <MinorDia>80.112</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -9961,9 +9961,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>105.455</MajorDia>
-        <PitchDia>102.568</PitchDia>
-        <MinorDia>100.969</MinorDia>
+        <MajorDia>86.663</MajorDia>
+        <PitchDia>83.776</PitchDia>
+        <MinorDia>82.177</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -9995,9 +9995,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>105.366</MajorDia>
-        <PitchDia>103.2</PitchDia>
-        <MinorDia>102.001</MinorDia>
+        <MajorDia>86.574</MajorDia>
+        <PitchDia>84.408</PitchDia>
+        <MinorDia>83.209</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10029,9 +10029,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>105.268</MajorDia>
-        <PitchDia>103.825</PitchDia>
-        <MinorDia>103.021</MinorDia>
+        <MajorDia>86.476</MajorDia>
+        <PitchDia>85.033</PitchDia>
+        <MinorDia>84.23</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10063,9 +10063,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>105.225</MajorDia>
-        <PitchDia>104.143</PitchDia>
-        <MinorDia>103.525</MinorDia>
+        <MajorDia>86.433</MajorDia>
+        <PitchDia>85.351</PitchDia>
+        <MinorDia>84.733</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -10100,9 +10100,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>110.632</MajorDia>
-        <PitchDia>106.302</PitchDia>
-        <MinorDia>103.904</MinorDia>
+        <MajorDia>91.793</MajorDia>
+        <PitchDia>87.463</PitchDia>
+        <MinorDia>85.065</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10134,9 +10134,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>110.455</MajorDia>
-        <PitchDia>107.568</PitchDia>
-        <MinorDia>105.969</MinorDia>
+        <MajorDia>91.616</MajorDia>
+        <PitchDia>88.729</PitchDia>
+        <MinorDia>87.13</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10168,9 +10168,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>110.366</MajorDia>
-        <PitchDia>108.2</PitchDia>
-        <MinorDia>107.001</MinorDia>
+        <MajorDia>91.526</MajorDia>
+        <PitchDia>89.361</PitchDia>
+        <MinorDia>88.162</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10202,9 +10202,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>110.268</MajorDia>
-        <PitchDia>108.825</PitchDia>
-        <MinorDia>108.021</MinorDia>
+        <MajorDia>91.429</MajorDia>
+        <PitchDia>89.986</PitchDia>
+        <MinorDia>89.182</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10236,9 +10236,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>110.225</MajorDia>
-        <PitchDia>109.143</PitchDia>
-        <MinorDia>108.525</MinorDia>
+        <MajorDia>91.386</MajorDia>
+        <PitchDia>90.304</PitchDia>
+        <MinorDia>89.686</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -10273,9 +10273,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>115.632</MajorDia>
-        <PitchDia>111.302</PitchDia>
-        <MinorDia>108.904</MinorDia>
+        <MajorDia>96.764</MajorDia>
+        <PitchDia>92.434</PitchDia>
+        <MinorDia>90.036</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10307,9 +10307,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>115.455</MajorDia>
-        <PitchDia>112.568</PitchDia>
-        <MinorDia>110.969</MinorDia>
+        <MajorDia>96.587</MajorDia>
+        <PitchDia>93.7</PitchDia>
+        <MinorDia>92.101</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10341,9 +10341,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>115.366</MajorDia>
-        <PitchDia>113.2</PitchDia>
-        <MinorDia>112.001</MinorDia>
+        <MajorDia>96.498</MajorDia>
+        <PitchDia>94.332</PitchDia>
+        <MinorDia>93.133</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10375,9 +10375,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>115.268</MajorDia>
-        <PitchDia>113.825</PitchDia>
-        <MinorDia>113.021</MinorDia>
+        <MajorDia>96.4</MajorDia>
+        <PitchDia>94.957</PitchDia>
+        <MinorDia>94.153</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10409,9 +10409,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>115.225</MajorDia>
-        <PitchDia>114.143</PitchDia>
-        <MinorDia>113.525</MinorDia>
+        <MajorDia>96.357</MajorDia>
+        <PitchDia>95.275</PitchDia>
+        <MinorDia>94.657</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -10446,9 +10446,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>120.632</MajorDia>
-        <PitchDia>116.302</PitchDia>
-        <MinorDia>113.904</MinorDia>
+        <MajorDia>101.747</MajorDia>
+        <PitchDia>97.417</PitchDia>
+        <MinorDia>95.019</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10480,9 +10480,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>120.455</MajorDia>
-        <PitchDia>117.568</PitchDia>
-        <MinorDia>115.969</MinorDia>
+        <MajorDia>101.57</MajorDia>
+        <PitchDia>98.683</PitchDia>
+        <MinorDia>97.084</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10514,9 +10514,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>120.366</MajorDia>
-        <PitchDia>118.2</PitchDia>
-        <MinorDia>117.001</MinorDia>
+        <MajorDia>101.48</MajorDia>
+        <PitchDia>99.315</PitchDia>
+        <MinorDia>98.116</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10548,9 +10548,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>120.268</MajorDia>
-        <PitchDia>118.825</PitchDia>
-        <MinorDia>118.021</MinorDia>
+        <MajorDia>101.384</MajorDia>
+        <PitchDia>99.94</PitchDia>
+        <MinorDia>99.136</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10582,9 +10582,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>120.225</MajorDia>
-        <PitchDia>119.143</PitchDia>
-        <MinorDia>118.525</MinorDia>
+        <MajorDia>101.34</MajorDia>
+        <PitchDia>100.258</PitchDia>
+        <MinorDia>99.64</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -10619,9 +10619,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>125.801</MajorDia>
-        <PitchDia>120.028</PitchDia>
-        <MinorDia>116.839</MinorDia>
+        <MajorDia>106.905</MajorDia>
+        <PitchDia>101.132</PitchDia>
+        <MinorDia>97.943</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10653,9 +10653,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>125.632</MajorDia>
-        <PitchDia>121.302</PitchDia>
-        <MinorDia>118.904</MinorDia>
+        <MajorDia>106.736</MajorDia>
+        <PitchDia>102.406</PitchDia>
+        <MinorDia>100.008</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10687,9 +10687,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>125.455</MajorDia>
-        <PitchDia>122.568</PitchDia>
-        <MinorDia>120.969</MinorDia>
+        <MajorDia>106.559</MajorDia>
+        <PitchDia>103.672</PitchDia>
+        <MinorDia>102.073</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10721,9 +10721,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>125.366</MajorDia>
-        <PitchDia>123.2</PitchDia>
-        <MinorDia>122.001</MinorDia>
+        <MajorDia>106.47</MajorDia>
+        <PitchDia>104.304</PitchDia>
+        <MinorDia>103.105</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10755,9 +10755,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>125.268</MajorDia>
-        <PitchDia>123.825</PitchDia>
-        <MinorDia>123.021</MinorDia>
+        <MajorDia>106.372</MajorDia>
+        <PitchDia>104.929</PitchDia>
+        <MinorDia>104.125</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10789,9 +10789,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>125.225</MajorDia>
-        <PitchDia>124.143</PitchDia>
-        <MinorDia>123.525</MinorDia>
+        <MajorDia>106.329</MajorDia>
+        <PitchDia>105.247</PitchDia>
+        <MinorDia>104.629</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -10826,9 +10826,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>130.801</MajorDia>
-        <PitchDia>125.028</PitchDia>
-        <MinorDia>121.839</MinorDia>
+        <MajorDia>111.899</MajorDia>
+        <PitchDia>106.126</PitchDia>
+        <MinorDia>102.937</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10860,9 +10860,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>130.632</MajorDia>
-        <PitchDia>126.302</PitchDia>
-        <MinorDia>123.904</MinorDia>
+        <MajorDia>111.73</MajorDia>
+        <PitchDia>107.4</PitchDia>
+        <MinorDia>105.002</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10894,9 +10894,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>130.455</MajorDia>
-        <PitchDia>127.568</PitchDia>
-        <MinorDia>125.969</MinorDia>
+        <MajorDia>111.553</MajorDia>
+        <PitchDia>108.666</PitchDia>
+        <MinorDia>107.067</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10928,9 +10928,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>130.366</MajorDia>
-        <PitchDia>128.2</PitchDia>
-        <MinorDia>127.001</MinorDia>
+        <MajorDia>111.464</MajorDia>
+        <PitchDia>109.298</PitchDia>
+        <MinorDia>108.099</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10962,9 +10962,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>130.268</MajorDia>
-        <PitchDia>128.825</PitchDia>
-        <MinorDia>128.022</MinorDia>
+        <MajorDia>111.366</MajorDia>
+        <PitchDia>109.923</PitchDia>
+        <MinorDia>109.12</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -10996,9 +10996,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>130.225</MajorDia>
-        <PitchDia>129.143</PitchDia>
-        <MinorDia>128.525</MinorDia>
+        <MajorDia>111.323</MajorDia>
+        <PitchDia>110.241</PitchDia>
+        <MinorDia>109.623</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -11033,9 +11033,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>135.632</MajorDia>
-        <PitchDia>131.302</PitchDia>
-        <MinorDia>128.904</MinorDia>
+        <MajorDia>116.726</MajorDia>
+        <PitchDia>112.396</PitchDia>
+        <MinorDia>109.998</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -11067,9 +11067,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>135.455</MajorDia>
-        <PitchDia>132.568</PitchDia>
-        <MinorDia>130.969</MinorDia>
+        <MajorDia>116.549</MajorDia>
+        <PitchDia>113.662</PitchDia>
+        <MinorDia>112.063</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -11101,9 +11101,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>135.366</MajorDia>
-        <PitchDia>133.2</PitchDia>
-        <MinorDia>132.001</MinorDia>
+        <MajorDia>116.46</MajorDia>
+        <PitchDia>114.294</PitchDia>
+        <MinorDia>113.095</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -11135,9 +11135,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>135.268</MajorDia>
-        <PitchDia>133.825</PitchDia>
-        <MinorDia>133.021</MinorDia>
+        <MajorDia>116.362</MajorDia>
+        <PitchDia>114.919</PitchDia>
+        <MinorDia>114.115</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -11169,9 +11169,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>135.225</MajorDia>
-        <PitchDia>134.143</PitchDia>
-        <MinorDia>133.525</MinorDia>
+        <MajorDia>116.319</MajorDia>
+        <PitchDia>115.237</PitchDia>
+        <MinorDia>114.619</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -11206,9 +11206,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>140.801</MajorDia>
-        <PitchDia>135.028</PitchDia>
-        <MinorDia>131.839</MinorDia>
+        <MajorDia>121.892</MajorDia>
+        <PitchDia>116.119</PitchDia>
+        <MinorDia>112.93</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -11240,9 +11240,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>140.632</MajorDia>
-        <PitchDia>136.302</PitchDia>
-        <MinorDia>133.904</MinorDia>
+        <MajorDia>121.723</MajorDia>
+        <PitchDia>117.393</PitchDia>
+        <MinorDia>114.995</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -11274,9 +11274,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>140.455</MajorDia>
-        <PitchDia>137.568</PitchDia>
-        <MinorDia>135.969</MinorDia>
+        <MajorDia>121.546</MajorDia>
+        <PitchDia>118.659</PitchDia>
+        <MinorDia>117.06</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -11308,9 +11308,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>140.366</MajorDia>
-        <PitchDia>138.2</PitchDia>
-        <MinorDia>137.001</MinorDia>
+        <MajorDia>121.456</MajorDia>
+        <PitchDia>119.291</PitchDia>
+        <MinorDia>118.092</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -11342,9 +11342,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>140.268</MajorDia>
-        <PitchDia>138.825</PitchDia>
-        <MinorDia>138.022</MinorDia>
+        <MajorDia>121.36</MajorDia>
+        <PitchDia>119.916</PitchDia>
+        <MinorDia>119.113</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -11376,9 +11376,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>140.225</MajorDia>
-        <PitchDia>139.143</PitchDia>
-        <MinorDia>138.525</MinorDia>
+        <MajorDia>121.316</MajorDia>
+        <PitchDia>120.234</PitchDia>
+        <MinorDia>119.616</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -11413,9 +11413,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>145.632</MajorDia>
-        <PitchDia>141.302</PitchDia>
-        <MinorDia>138.904</MinorDia>
+        <MajorDia>126.722</MajorDia>
+        <PitchDia>122.392</PitchDia>
+        <MinorDia>119.994</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -11447,9 +11447,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>145.455</MajorDia>
-        <PitchDia>142.568</PitchDia>
-        <MinorDia>140.969</MinorDia>
+        <MajorDia>126.545</MajorDia>
+        <PitchDia>123.658</PitchDia>
+        <MinorDia>122.059</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -11481,9 +11481,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>145.366</MajorDia>
-        <PitchDia>143.2</PitchDia>
-        <MinorDia>142.001</MinorDia>
+        <MajorDia>126.456</MajorDia>
+        <PitchDia>124.29</PitchDia>
+        <MinorDia>123.091</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -11515,9 +11515,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>145.268</MajorDia>
-        <PitchDia>143.825</PitchDia>
-        <MinorDia>143.021</MinorDia>
+        <MajorDia>126.358</MajorDia>
+        <PitchDia>124.915</PitchDia>
+        <MinorDia>124.111</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -11549,9 +11549,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>145.225</MajorDia>
-        <PitchDia>144.143</PitchDia>
-        <MinorDia>143.525</MinorDia>
+        <MajorDia>126.315</MajorDia>
+        <PitchDia>125.233</PitchDia>
+        <MinorDia>124.615</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -11586,9 +11586,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>150.801</MajorDia>
-        <PitchDia>145.028</PitchDia>
-        <MinorDia>141.839</MinorDia>
+        <MajorDia>131.89</MajorDia>
+        <PitchDia>126.117</PitchDia>
+        <MinorDia>122.928</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -11620,9 +11620,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>150.632</MajorDia>
-        <PitchDia>146.302</PitchDia>
-        <MinorDia>143.904</MinorDia>
+        <MajorDia>131.721</MajorDia>
+        <PitchDia>127.391</PitchDia>
+        <MinorDia>124.993</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -11654,9 +11654,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>150.455</MajorDia>
-        <PitchDia>147.568</PitchDia>
-        <MinorDia>145.969</MinorDia>
+        <MajorDia>131.544</MajorDia>
+        <PitchDia>128.657</PitchDia>
+        <MinorDia>127.058</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -11688,9 +11688,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>150.366</MajorDia>
-        <PitchDia>148.2</PitchDia>
-        <MinorDia>147.001</MinorDia>
+        <MajorDia>131.454</MajorDia>
+        <PitchDia>129.289</PitchDia>
+        <MinorDia>128.09</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -11722,9 +11722,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>150.268</MajorDia>
-        <PitchDia>148.825</PitchDia>
-        <MinorDia>148.022</MinorDia>
+        <MajorDia>131.358</MajorDia>
+        <PitchDia>129.914</PitchDia>
+        <MinorDia>129.11</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -11756,9 +11756,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>150.225</MajorDia>
-        <PitchDia>149.143</PitchDia>
-        <MinorDia>148.525</MinorDia>
+        <MajorDia>131.314</MajorDia>
+        <PitchDia>130.232</PitchDia>
+        <MinorDia>129.614</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -11793,9 +11793,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>155.632</MajorDia>
-        <PitchDia>151.302</PitchDia>
-        <MinorDia>148.904</MinorDia>
+        <MajorDia>136.72</MajorDia>
+        <PitchDia>132.39</PitchDia>
+        <MinorDia>129.992</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -11827,9 +11827,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>155.455</MajorDia>
-        <PitchDia>152.568</PitchDia>
-        <MinorDia>150.969</MinorDia>
+        <MajorDia>136.543</MajorDia>
+        <PitchDia>133.656</PitchDia>
+        <MinorDia>132.057</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -11861,9 +11861,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>155.366</MajorDia>
-        <PitchDia>153.2</PitchDia>
-        <MinorDia>152.001</MinorDia>
+        <MajorDia>136.454</MajorDia>
+        <PitchDia>134.288</PitchDia>
+        <MinorDia>133.089</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -11895,9 +11895,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>155.268</MajorDia>
-        <PitchDia>153.825</PitchDia>
-        <MinorDia>153.021</MinorDia>
+        <MajorDia>136.356</MajorDia>
+        <PitchDia>134.913</PitchDia>
+        <MinorDia>134.109</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -11932,9 +11932,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>160.801</MajorDia>
-        <PitchDia>155.028</PitchDia>
-        <MinorDia>151.839</MinorDia>
+        <MajorDia>141.889</MajorDia>
+        <PitchDia>136.116</PitchDia>
+        <MinorDia>132.927</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -11966,9 +11966,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>160.632</MajorDia>
-        <PitchDia>156.302</PitchDia>
-        <MinorDia>153.904</MinorDia>
+        <MajorDia>141.72</MajorDia>
+        <PitchDia>137.39</PitchDia>
+        <MinorDia>134.992</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -12000,9 +12000,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>160.455</MajorDia>
-        <PitchDia>157.568</PitchDia>
-        <MinorDia>155.969</MinorDia>
+        <MajorDia>141.543</MajorDia>
+        <PitchDia>138.656</PitchDia>
+        <MinorDia>137.057</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -12034,9 +12034,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>160.366</MajorDia>
-        <PitchDia>158.2</PitchDia>
-        <MinorDia>157.001</MinorDia>
+        <MajorDia>141.454</MajorDia>
+        <PitchDia>139.288</PitchDia>
+        <MinorDia>138.089</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -12068,9 +12068,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>160.268</MajorDia>
-        <PitchDia>158.825</PitchDia>
-        <MinorDia>158.021</MinorDia>
+        <MajorDia>141.356</MajorDia>
+        <PitchDia>139.913</PitchDia>
+        <MinorDia>139.109</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -12105,9 +12105,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>165.632</MajorDia>
-        <PitchDia>161.302</PitchDia>
-        <MinorDia>158.904</MinorDia>
+        <MajorDia>146.72</MajorDia>
+        <PitchDia>142.39</PitchDia>
+        <MinorDia>139.992</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -12139,9 +12139,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>165.455</MajorDia>
-        <PitchDia>162.568</PitchDia>
-        <MinorDia>160.969</MinorDia>
+        <MajorDia>146.543</MajorDia>
+        <PitchDia>143.656</PitchDia>
+        <MinorDia>142.057</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -12173,9 +12173,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>165.366</MajorDia>
-        <PitchDia>163.2</PitchDia>
-        <MinorDia>162.001</MinorDia>
+        <MajorDia>146.454</MajorDia>
+        <PitchDia>144.288</PitchDia>
+        <MinorDia>143.089</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -12207,9 +12207,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>165.268</MajorDia>
-        <PitchDia>163.825</PitchDia>
-        <MinorDia>163.021</MinorDia>
+        <MajorDia>146.356</MajorDia>
+        <PitchDia>144.913</PitchDia>
+        <MinorDia>144.109</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -12244,9 +12244,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>170.801</MajorDia>
-        <PitchDia>165.028</PitchDia>
-        <MinorDia>161.839</MinorDia>
+        <MajorDia>151.889</MajorDia>
+        <PitchDia>146.116</PitchDia>
+        <MinorDia>142.927</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -12278,9 +12278,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>170.632</MajorDia>
-        <PitchDia>166.302</PitchDia>
-        <MinorDia>163.904</MinorDia>
+        <MajorDia>151.72</MajorDia>
+        <PitchDia>147.39</PitchDia>
+        <MinorDia>144.992</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -12312,9 +12312,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>170.455</MajorDia>
-        <PitchDia>167.568</PitchDia>
-        <MinorDia>165.969</MinorDia>
+        <MajorDia>151.543</MajorDia>
+        <PitchDia>148.656</PitchDia>
+        <MinorDia>147.057</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -12346,9 +12346,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>170.366</MajorDia>
-        <PitchDia>168.2</PitchDia>
-        <MinorDia>167.001</MinorDia>
+        <MajorDia>151.454</MajorDia>
+        <PitchDia>149.288</PitchDia>
+        <MinorDia>148.089</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -12380,9 +12380,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>170.268</MajorDia>
-        <PitchDia>168.825</PitchDia>
-        <MinorDia>168.021</MinorDia>
+        <MajorDia>151.356</MajorDia>
+        <PitchDia>149.913</PitchDia>
+        <MinorDia>149.109</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -12417,9 +12417,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>175.632</MajorDia>
-        <PitchDia>171.302</PitchDia>
-        <MinorDia>168.904</MinorDia>
+        <MajorDia>156.72</MajorDia>
+        <PitchDia>152.39</PitchDia>
+        <MinorDia>149.992</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -12451,9 +12451,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>175.455</MajorDia>
-        <PitchDia>172.568</PitchDia>
-        <MinorDia>170.969</MinorDia>
+        <MajorDia>156.543</MajorDia>
+        <PitchDia>153.656</PitchDia>
+        <MinorDia>152.057</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -12485,9 +12485,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>175.366</MajorDia>
-        <PitchDia>173.2</PitchDia>
-        <MinorDia>172.001</MinorDia>
+        <MajorDia>156.454</MajorDia>
+        <PitchDia>154.288</PitchDia>
+        <MinorDia>153.089</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -12519,9 +12519,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>175.268</MajorDia>
-        <PitchDia>173.825</PitchDia>
-        <MinorDia>173.021</MinorDia>
+        <MajorDia>156.356</MajorDia>
+        <PitchDia>154.913</PitchDia>
+        <MinorDia>154.109</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -12556,9 +12556,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>180.801</MajorDia>
-        <PitchDia>175.028</PitchDia>
-        <MinorDia>171.839</MinorDia>
+        <MajorDia>161.888</MajorDia>
+        <PitchDia>156.115</PitchDia>
+        <MinorDia>152.926</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -12590,9 +12590,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>180.632</MajorDia>
-        <PitchDia>176.302</PitchDia>
-        <MinorDia>173.904</MinorDia>
+        <MajorDia>161.719</MajorDia>
+        <PitchDia>157.389</PitchDia>
+        <MinorDia>154.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -12624,9 +12624,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>180.455</MajorDia>
-        <PitchDia>177.568</PitchDia>
-        <MinorDia>175.969</MinorDia>
+        <MajorDia>161.542</MajorDia>
+        <PitchDia>158.655</PitchDia>
+        <MinorDia>157.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -12658,9 +12658,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>180.366</MajorDia>
-        <PitchDia>178.2</PitchDia>
-        <MinorDia>177.001</MinorDia>
+        <MajorDia>161.452</MajorDia>
+        <PitchDia>159.287</PitchDia>
+        <MinorDia>158.088</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -12692,9 +12692,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>180.268</MajorDia>
-        <PitchDia>178.825</PitchDia>
-        <MinorDia>178.021</MinorDia>
+        <MajorDia>161.355</MajorDia>
+        <PitchDia>159.912</PitchDia>
+        <MinorDia>159.108</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -12729,9 +12729,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>185.644</MajorDia>
-        <PitchDia>181.314</PitchDia>
-        <MinorDia>178.904</MinorDia>
+        <MajorDia>166.731</MajorDia>
+        <PitchDia>162.401</PitchDia>
+        <MinorDia>159.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -12763,9 +12763,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>185.475</MajorDia>
-        <PitchDia>182.588</PitchDia>
-        <MinorDia>180.969</MinorDia>
+        <MajorDia>166.562</MajorDia>
+        <PitchDia>163.675</PitchDia>
+        <MinorDia>162.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -12797,9 +12797,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>185.383</MajorDia>
-        <PitchDia>183.218</PitchDia>
-        <MinorDia>182.001</MinorDia>
+        <MajorDia>166.47</MajorDia>
+        <PitchDia>164.305</PitchDia>
+        <MinorDia>163.088</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -12831,9 +12831,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>185.283</MajorDia>
-        <PitchDia>183.84</PitchDia>
-        <MinorDia>183.021</MinorDia>
+        <MajorDia>166.37</MajorDia>
+        <PitchDia>164.927</PitchDia>
+        <MinorDia>164.108</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -12868,9 +12868,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>190.814</MajorDia>
-        <PitchDia>185.04</PitchDia>
-        <MinorDia>181.839</MinorDia>
+        <MajorDia>171.901</MajorDia>
+        <PitchDia>166.127</PitchDia>
+        <MinorDia>162.926</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -12902,9 +12902,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>190.644</MajorDia>
-        <PitchDia>186.314</PitchDia>
-        <MinorDia>183.904</MinorDia>
+        <MajorDia>171.731</MajorDia>
+        <PitchDia>167.401</PitchDia>
+        <MinorDia>164.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -12936,9 +12936,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>190.475</MajorDia>
-        <PitchDia>187.588</PitchDia>
-        <MinorDia>185.969</MinorDia>
+        <MajorDia>171.562</MajorDia>
+        <PitchDia>168.675</PitchDia>
+        <MinorDia>167.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -12970,9 +12970,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>190.383</MajorDia>
-        <PitchDia>188.218</PitchDia>
-        <MinorDia>187.001</MinorDia>
+        <MajorDia>171.47</MajorDia>
+        <PitchDia>169.305</PitchDia>
+        <MinorDia>168.088</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -13004,9 +13004,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>190.283</MajorDia>
-        <PitchDia>188.84</PitchDia>
-        <MinorDia>188.021</MinorDia>
+        <MajorDia>171.37</MajorDia>
+        <PitchDia>169.927</PitchDia>
+        <MinorDia>169.108</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -13041,9 +13041,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>195.644</MajorDia>
-        <PitchDia>191.314</PitchDia>
-        <MinorDia>188.904</MinorDia>
+        <MajorDia>176.731</MajorDia>
+        <PitchDia>172.401</PitchDia>
+        <MinorDia>169.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -13075,9 +13075,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>195.475</MajorDia>
-        <PitchDia>192.588</PitchDia>
-        <MinorDia>190.969</MinorDia>
+        <MajorDia>176.562</MajorDia>
+        <PitchDia>173.675</PitchDia>
+        <MinorDia>172.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -13109,9 +13109,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>195.383</MajorDia>
-        <PitchDia>193.218</PitchDia>
-        <MinorDia>192.001</MinorDia>
+        <MajorDia>176.47</MajorDia>
+        <PitchDia>174.305</PitchDia>
+        <MinorDia>173.088</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -13143,9 +13143,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>195.283</MajorDia>
-        <PitchDia>193.84</PitchDia>
-        <MinorDia>193.021</MinorDia>
+        <MajorDia>176.37</MajorDia>
+        <PitchDia>174.927</PitchDia>
+        <MinorDia>174.108</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -13180,9 +13180,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>200.814</MajorDia>
-        <PitchDia>195.04</PitchDia>
-        <MinorDia>191.839</MinorDia>
+        <MajorDia>181.901</MajorDia>
+        <PitchDia>176.127</PitchDia>
+        <MinorDia>172.926</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -13214,9 +13214,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>200.644</MajorDia>
-        <PitchDia>196.314</PitchDia>
-        <MinorDia>193.904</MinorDia>
+        <MajorDia>181.731</MajorDia>
+        <PitchDia>177.401</PitchDia>
+        <MinorDia>174.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -13248,9 +13248,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>200.475</MajorDia>
-        <PitchDia>197.588</PitchDia>
-        <MinorDia>195.969</MinorDia>
+        <MajorDia>181.562</MajorDia>
+        <PitchDia>178.675</PitchDia>
+        <MinorDia>177.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -13282,9 +13282,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>200.383</MajorDia>
-        <PitchDia>198.218</PitchDia>
-        <MinorDia>197.001</MinorDia>
+        <MajorDia>181.47</MajorDia>
+        <PitchDia>179.305</PitchDia>
+        <MinorDia>178.088</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -13316,9 +13316,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>200.283</MajorDia>
-        <PitchDia>198.84</PitchDia>
-        <MinorDia>198.021</MinorDia>
+        <MajorDia>181.37</MajorDia>
+        <PitchDia>179.927</PitchDia>
+        <MinorDia>179.108</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -13353,9 +13353,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>205.644</MajorDia>
-        <PitchDia>201.314</PitchDia>
-        <MinorDia>198.904</MinorDia>
+        <MajorDia>186.731</MajorDia>
+        <PitchDia>182.401</PitchDia>
+        <MinorDia>179.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -13387,9 +13387,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>205.475</MajorDia>
-        <PitchDia>202.588</PitchDia>
-        <MinorDia>200.969</MinorDia>
+        <MajorDia>186.562</MajorDia>
+        <PitchDia>183.675</PitchDia>
+        <MinorDia>182.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -13421,9 +13421,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>205.383</MajorDia>
-        <PitchDia>203.218</PitchDia>
-        <MinorDia>202.001</MinorDia>
+        <MajorDia>186.47</MajorDia>
+        <PitchDia>184.305</PitchDia>
+        <MinorDia>183.088</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -13455,9 +13455,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>205.283</MajorDia>
-        <PitchDia>203.84</PitchDia>
-        <MinorDia>203.021</MinorDia>
+        <MajorDia>186.37</MajorDia>
+        <PitchDia>184.927</PitchDia>
+        <MinorDia>184.108</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -13492,9 +13492,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>210.814</MajorDia>
-        <PitchDia>205.04</PitchDia>
-        <MinorDia>201.839</MinorDia>
+        <MajorDia>191.901</MajorDia>
+        <PitchDia>186.127</PitchDia>
+        <MinorDia>182.926</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -13526,9 +13526,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>210.644</MajorDia>
-        <PitchDia>206.314</PitchDia>
-        <MinorDia>203.904</MinorDia>
+        <MajorDia>191.731</MajorDia>
+        <PitchDia>187.401</PitchDia>
+        <MinorDia>184.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -13560,9 +13560,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>210.475</MajorDia>
-        <PitchDia>207.588</PitchDia>
-        <MinorDia>205.969</MinorDia>
+        <MajorDia>191.562</MajorDia>
+        <PitchDia>188.675</PitchDia>
+        <MinorDia>187.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -13594,9 +13594,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>210.383</MajorDia>
-        <PitchDia>208.218</PitchDia>
-        <MinorDia>207.001</MinorDia>
+        <MajorDia>191.47</MajorDia>
+        <PitchDia>189.305</PitchDia>
+        <MinorDia>188.088</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -13628,9 +13628,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>210.283</MajorDia>
-        <PitchDia>208.84</PitchDia>
-        <MinorDia>208.021</MinorDia>
+        <MajorDia>191.37</MajorDia>
+        <PitchDia>189.927</PitchDia>
+        <MinorDia>189.108</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -13665,9 +13665,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>215.644</MajorDia>
-        <PitchDia>211.314</PitchDia>
-        <MinorDia>208.904</MinorDia>
+        <MajorDia>196.731</MajorDia>
+        <PitchDia>192.401</PitchDia>
+        <MinorDia>189.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -13699,9 +13699,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>215.475</MajorDia>
-        <PitchDia>212.588</PitchDia>
-        <MinorDia>210.969</MinorDia>
+        <MajorDia>196.562</MajorDia>
+        <PitchDia>193.675</PitchDia>
+        <MinorDia>192.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -13733,9 +13733,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>215.383</MajorDia>
-        <PitchDia>213.218</PitchDia>
-        <MinorDia>212.001</MinorDia>
+        <MajorDia>196.47</MajorDia>
+        <PitchDia>194.305</PitchDia>
+        <MinorDia>193.088</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -13770,9 +13770,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>220.814</MajorDia>
-        <PitchDia>215.04</PitchDia>
-        <MinorDia>211.839</MinorDia>
+        <MajorDia>201.901</MajorDia>
+        <PitchDia>196.127</PitchDia>
+        <MinorDia>192.926</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -13804,9 +13804,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>220.644</MajorDia>
-        <PitchDia>216.314</PitchDia>
-        <MinorDia>213.904</MinorDia>
+        <MajorDia>201.731</MajorDia>
+        <PitchDia>197.401</PitchDia>
+        <MinorDia>194.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -13838,9 +13838,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>220.475</MajorDia>
-        <PitchDia>217.588</PitchDia>
-        <MinorDia>215.969</MinorDia>
+        <MajorDia>201.562</MajorDia>
+        <PitchDia>198.675</PitchDia>
+        <MinorDia>197.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -13872,9 +13872,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>220.383</MajorDia>
-        <PitchDia>218.218</PitchDia>
-        <MinorDia>217.001</MinorDia>
+        <MajorDia>201.47</MajorDia>
+        <PitchDia>199.305</PitchDia>
+        <MinorDia>198.088</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -13906,9 +13906,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>220.283</MajorDia>
-        <PitchDia>218.84</PitchDia>
-        <MinorDia>218.021</MinorDia>
+        <MajorDia>201.37</MajorDia>
+        <PitchDia>199.927</PitchDia>
+        <MinorDia>199.108</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -13943,9 +13943,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>225.644</MajorDia>
-        <PitchDia>221.314</PitchDia>
-        <MinorDia>218.904</MinorDia>
+        <MajorDia>206.731</MajorDia>
+        <PitchDia>202.401</PitchDia>
+        <MinorDia>199.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -13977,9 +13977,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>225.475</MajorDia>
-        <PitchDia>222.588</PitchDia>
-        <MinorDia>220.969</MinorDia>
+        <MajorDia>206.562</MajorDia>
+        <PitchDia>203.675</PitchDia>
+        <MinorDia>202.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -14011,9 +14011,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>225.383</MajorDia>
-        <PitchDia>223.218</PitchDia>
-        <MinorDia>222.001</MinorDia>
+        <MajorDia>206.47</MajorDia>
+        <PitchDia>204.305</PitchDia>
+        <MinorDia>203.088</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -14045,9 +14045,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>225.283</MajorDia>
-        <PitchDia>223.84</PitchDia>
-        <MinorDia>223.021</MinorDia>
+        <MajorDia>206.37</MajorDia>
+        <PitchDia>204.927</PitchDia>
+        <MinorDia>204.108</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -14082,9 +14082,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>230.644</MajorDia>
-        <PitchDia>226.314</PitchDia>
-        <MinorDia>223.904</MinorDia>
+        <MajorDia>211.731</MajorDia>
+        <PitchDia>207.401</PitchDia>
+        <MinorDia>204.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -14116,9 +14116,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>230.475</MajorDia>
-        <PitchDia>227.588</PitchDia>
-        <MinorDia>225.969</MinorDia>
+        <MajorDia>211.562</MajorDia>
+        <PitchDia>208.675</PitchDia>
+        <MinorDia>207.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -14150,9 +14150,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>230.383</MajorDia>
-        <PitchDia>228.218</PitchDia>
-        <MinorDia>227.001</MinorDia>
+        <MajorDia>211.47</MajorDia>
+        <PitchDia>209.305</PitchDia>
+        <MinorDia>208.088</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -14184,9 +14184,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>230.283</MajorDia>
-        <PitchDia>228.84</PitchDia>
-        <MinorDia>228.021</MinorDia>
+        <MajorDia>211.37</MajorDia>
+        <PitchDia>209.927</PitchDia>
+        <MinorDia>209.108</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -14221,9 +14221,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>235.67</MajorDia>
-        <PitchDia>231.339</PitchDia>
-        <MinorDia>228.904</MinorDia>
+        <MajorDia>216.757</MajorDia>
+        <PitchDia>212.426</PitchDia>
+        <MinorDia>209.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -14255,9 +14255,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>235.475</MajorDia>
-        <PitchDia>232.588</PitchDia>
-        <MinorDia>230.969</MinorDia>
+        <MajorDia>216.562</MajorDia>
+        <PitchDia>213.675</PitchDia>
+        <MinorDia>212.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -14289,9 +14289,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>235.383</MajorDia>
-        <PitchDia>233.218</PitchDia>
-        <MinorDia>232.001</MinorDia>
+        <MajorDia>216.47</MajorDia>
+        <PitchDia>214.305</PitchDia>
+        <MinorDia>213.088</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -14326,9 +14326,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>240.814</MajorDia>
-        <PitchDia>235.04</PitchDia>
-        <MinorDia>231.839</MinorDia>
+        <MajorDia>221.901</MajorDia>
+        <PitchDia>216.127</PitchDia>
+        <MinorDia>212.926</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -14360,9 +14360,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>240.644</MajorDia>
-        <PitchDia>236.314</PitchDia>
-        <MinorDia>233.904</MinorDia>
+        <MajorDia>221.731</MajorDia>
+        <PitchDia>217.401</PitchDia>
+        <MinorDia>214.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -14394,9 +14394,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>240.475</MajorDia>
-        <PitchDia>237.588</PitchDia>
-        <MinorDia>235.969</MinorDia>
+        <MajorDia>221.562</MajorDia>
+        <PitchDia>218.675</PitchDia>
+        <MinorDia>217.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -14428,9 +14428,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>240.383</MajorDia>
-        <PitchDia>238.218</PitchDia>
-        <MinorDia>237.001</MinorDia>
+        <MajorDia>221.47</MajorDia>
+        <PitchDia>219.305</PitchDia>
+        <MinorDia>218.088</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -14462,9 +14462,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>240.283</MajorDia>
-        <PitchDia>238.84</PitchDia>
-        <MinorDia>238.021</MinorDia>
+        <MajorDia>221.37</MajorDia>
+        <PitchDia>219.927</PitchDia>
+        <MinorDia>219.108</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -14499,9 +14499,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>245.644</MajorDia>
-        <PitchDia>241.314</PitchDia>
-        <MinorDia>238.904</MinorDia>
+        <MajorDia>226.731</MajorDia>
+        <PitchDia>222.401</PitchDia>
+        <MinorDia>219.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -14533,9 +14533,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>245.475</MajorDia>
-        <PitchDia>242.588</PitchDia>
-        <MinorDia>240.969</MinorDia>
+        <MajorDia>226.562</MajorDia>
+        <PitchDia>223.675</PitchDia>
+        <MinorDia>222.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -14567,9 +14567,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>245.383</MajorDia>
-        <PitchDia>243.218</PitchDia>
-        <MinorDia>242.001</MinorDia>
+        <MajorDia>226.47</MajorDia>
+        <PitchDia>224.305</PitchDia>
+        <MinorDia>223.088</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -14601,9 +14601,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>245.283</MajorDia>
-        <PitchDia>243.84</PitchDia>
-        <MinorDia>243.021</MinorDia>
+        <MajorDia>226.37</MajorDia>
+        <PitchDia>224.927</PitchDia>
+        <MinorDia>224.108</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -14638,9 +14638,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>250.814</MajorDia>
-        <PitchDia>245.04</PitchDia>
-        <MinorDia>241.839</MinorDia>
+        <MajorDia>231.901</MajorDia>
+        <PitchDia>226.127</PitchDia>
+        <MinorDia>222.926</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -14672,9 +14672,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>250.644</MajorDia>
-        <PitchDia>246.314</PitchDia>
-        <MinorDia>243.904</MinorDia>
+        <MajorDia>231.731</MajorDia>
+        <PitchDia>227.401</PitchDia>
+        <MinorDia>224.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -14706,9 +14706,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>250.475</MajorDia>
-        <PitchDia>247.588</PitchDia>
-        <MinorDia>245.969</MinorDia>
+        <MajorDia>231.562</MajorDia>
+        <PitchDia>228.675</PitchDia>
+        <MinorDia>227.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -14740,9 +14740,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>250.383</MajorDia>
-        <PitchDia>248.218</PitchDia>
-        <MinorDia>247.001</MinorDia>
+        <MajorDia>231.47</MajorDia>
+        <PitchDia>229.305</PitchDia>
+        <MinorDia>228.088</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -14774,9 +14774,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>250.283</MajorDia>
-        <PitchDia>248.84</PitchDia>
-        <MinorDia>248.021</MinorDia>
+        <MajorDia>231.37</MajorDia>
+        <PitchDia>229.927</PitchDia>
+        <MinorDia>229.108</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -14811,9 +14811,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>255.67</MajorDia>
-        <PitchDia>251.339</PitchDia>
-        <MinorDia>248.904</MinorDia>
+        <MajorDia>236.757</MajorDia>
+        <PitchDia>232.426</PitchDia>
+        <MinorDia>229.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -14845,9 +14845,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>255.475</MajorDia>
-        <PitchDia>252.588</PitchDia>
-        <MinorDia>250.969</MinorDia>
+        <MajorDia>236.562</MajorDia>
+        <PitchDia>233.675</PitchDia>
+        <MinorDia>232.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -14879,9 +14879,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>255.383</MajorDia>
-        <PitchDia>253.218</PitchDia>
-        <MinorDia>252.001</MinorDia>
+        <MajorDia>236.47</MajorDia>
+        <PitchDia>234.305</PitchDia>
+        <MinorDia>233.088</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -14916,9 +14916,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>260.814</MajorDia>
-        <PitchDia>255.04</PitchDia>
-        <MinorDia>251.839</MinorDia>
+        <MajorDia>241.901</MajorDia>
+        <PitchDia>236.127</PitchDia>
+        <MinorDia>232.926</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -14950,9 +14950,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>260.645</MajorDia>
-        <PitchDia>256.314</PitchDia>
-        <MinorDia>253.904</MinorDia>
+        <MajorDia>241.732</MajorDia>
+        <PitchDia>237.401</PitchDia>
+        <MinorDia>234.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -14984,9 +14984,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>260.475</MajorDia>
-        <PitchDia>257.588</PitchDia>
-        <MinorDia>255.969</MinorDia>
+        <MajorDia>241.562</MajorDia>
+        <PitchDia>238.675</PitchDia>
+        <MinorDia>237.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -15018,9 +15018,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>260.383</MajorDia>
-        <PitchDia>258.218</PitchDia>
-        <MinorDia>257.001</MinorDia>
+        <MajorDia>241.47</MajorDia>
+        <PitchDia>239.305</PitchDia>
+        <MinorDia>238.088</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -15055,9 +15055,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>265.645</MajorDia>
-        <PitchDia>261.314</PitchDia>
-        <MinorDia>258.904</MinorDia>
+        <MajorDia>246.732</MajorDia>
+        <PitchDia>242.401</PitchDia>
+        <MinorDia>239.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -15089,9 +15089,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>265.475</MajorDia>
-        <PitchDia>262.588</PitchDia>
-        <MinorDia>260.969</MinorDia>
+        <MajorDia>246.562</MajorDia>
+        <PitchDia>243.675</PitchDia>
+        <MinorDia>242.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -15123,9 +15123,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>265.383</MajorDia>
-        <PitchDia>263.218</PitchDia>
-        <MinorDia>262.001</MinorDia>
+        <MajorDia>246.47</MajorDia>
+        <PitchDia>244.305</PitchDia>
+        <MinorDia>243.088</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -15160,9 +15160,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>270.645</MajorDia>
-        <PitchDia>266.314</PitchDia>
-        <MinorDia>263.904</MinorDia>
+        <MajorDia>251.732</MajorDia>
+        <PitchDia>247.401</PitchDia>
+        <MinorDia>244.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -15194,9 +15194,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>270.475</MajorDia>
-        <PitchDia>267.588</PitchDia>
-        <MinorDia>265.969</MinorDia>
+        <MajorDia>251.562</MajorDia>
+        <PitchDia>248.675</PitchDia>
+        <MinorDia>247.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -15228,9 +15228,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>270.383</MajorDia>
-        <PitchDia>268.218</PitchDia>
-        <MinorDia>267.001</MinorDia>
+        <MajorDia>251.47</MajorDia>
+        <PitchDia>249.305</PitchDia>
+        <MinorDia>248.088</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -15265,9 +15265,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>275.645</MajorDia>
-        <PitchDia>271.314</PitchDia>
-        <MinorDia>268.904</MinorDia>
+        <MajorDia>256.732</MajorDia>
+        <PitchDia>252.401</PitchDia>
+        <MinorDia>249.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -15299,9 +15299,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>275.475</MajorDia>
-        <PitchDia>272.588</PitchDia>
-        <MinorDia>270.969</MinorDia>
+        <MajorDia>256.562</MajorDia>
+        <PitchDia>253.675</PitchDia>
+        <MinorDia>252.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -15333,9 +15333,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>275.383</MajorDia>
-        <PitchDia>273.218</PitchDia>
-        <MinorDia>272.001</MinorDia>
+        <MajorDia>256.47</MajorDia>
+        <PitchDia>254.305</PitchDia>
+        <MinorDia>253.088</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -15370,9 +15370,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>280.814</MajorDia>
-        <PitchDia>275.04</PitchDia>
-        <MinorDia>271.839</MinorDia>
+        <MajorDia>261.901</MajorDia>
+        <PitchDia>256.127</PitchDia>
+        <MinorDia>252.926</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -15404,9 +15404,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>280.645</MajorDia>
-        <PitchDia>276.314</PitchDia>
-        <MinorDia>273.904</MinorDia>
+        <MajorDia>261.732</MajorDia>
+        <PitchDia>257.401</PitchDia>
+        <MinorDia>254.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -15438,9 +15438,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>280.475</MajorDia>
-        <PitchDia>277.588</PitchDia>
-        <MinorDia>275.969</MinorDia>
+        <MajorDia>261.562</MajorDia>
+        <PitchDia>258.675</PitchDia>
+        <MinorDia>257.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -15472,9 +15472,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>280.383</MajorDia>
-        <PitchDia>278.218</PitchDia>
-        <MinorDia>277.001</MinorDia>
+        <MajorDia>261.47</MajorDia>
+        <PitchDia>259.305</PitchDia>
+        <MinorDia>258.088</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -15509,9 +15509,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>285.645</MajorDia>
-        <PitchDia>281.314</PitchDia>
-        <MinorDia>278.904</MinorDia>
+        <MajorDia>266.732</MajorDia>
+        <PitchDia>262.401</PitchDia>
+        <MinorDia>259.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -15543,9 +15543,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>285.475</MajorDia>
-        <PitchDia>282.588</PitchDia>
-        <MinorDia>280.969</MinorDia>
+        <MajorDia>266.562</MajorDia>
+        <PitchDia>263.675</PitchDia>
+        <MinorDia>262.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -15577,9 +15577,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>285.383</MajorDia>
-        <PitchDia>283.218</PitchDia>
-        <MinorDia>282.001</MinorDia>
+        <MajorDia>266.47</MajorDia>
+        <PitchDia>264.305</PitchDia>
+        <MinorDia>263.088</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -15614,9 +15614,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>290.645</MajorDia>
-        <PitchDia>286.314</PitchDia>
-        <MinorDia>283.904</MinorDia>
+        <MajorDia>271.732</MajorDia>
+        <PitchDia>267.401</PitchDia>
+        <MinorDia>264.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -15648,9 +15648,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>290.475</MajorDia>
-        <PitchDia>287.588</PitchDia>
-        <MinorDia>285.969</MinorDia>
+        <MajorDia>271.562</MajorDia>
+        <PitchDia>268.675</PitchDia>
+        <MinorDia>267.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -15682,9 +15682,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>290.383</MajorDia>
-        <PitchDia>288.218</PitchDia>
-        <MinorDia>287.001</MinorDia>
+        <MajorDia>271.47</MajorDia>
+        <PitchDia>269.305</PitchDia>
+        <MinorDia>268.088</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -15719,9 +15719,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>295.645</MajorDia>
-        <PitchDia>291.314</PitchDia>
-        <MinorDia>288.904</MinorDia>
+        <MajorDia>276.732</MajorDia>
+        <PitchDia>272.401</PitchDia>
+        <MinorDia>269.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -15753,9 +15753,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>295.475</MajorDia>
-        <PitchDia>292.588</PitchDia>
-        <MinorDia>290.969</MinorDia>
+        <MajorDia>276.562</MajorDia>
+        <PitchDia>273.675</PitchDia>
+        <MinorDia>272.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -15787,9 +15787,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>295.383</MajorDia>
-        <PitchDia>293.218</PitchDia>
-        <MinorDia>292.001</MinorDia>
+        <MajorDia>276.47</MajorDia>
+        <PitchDia>274.305</PitchDia>
+        <MinorDia>273.088</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -15824,9 +15824,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>300.814</MajorDia>
-        <PitchDia>295.04</PitchDia>
-        <MinorDia>291.839</MinorDia>
+        <MajorDia>281.901</MajorDia>
+        <PitchDia>276.127</PitchDia>
+        <MinorDia>272.926</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -15858,9 +15858,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>300.645</MajorDia>
-        <PitchDia>296.314</PitchDia>
-        <MinorDia>293.904</MinorDia>
+        <MajorDia>281.732</MajorDia>
+        <PitchDia>277.401</PitchDia>
+        <MinorDia>274.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -15892,9 +15892,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>300.475</MajorDia>
-        <PitchDia>297.588</PitchDia>
-        <MinorDia>295.969</MinorDia>
+        <MajorDia>281.562</MajorDia>
+        <PitchDia>278.675</PitchDia>
+        <MinorDia>277.056</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -15926,9 +15926,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>300.383</MajorDia>
-        <PitchDia>298.218</PitchDia>
-        <MinorDia>297.001</MinorDia>
+        <MajorDia>281.47</MajorDia>
+        <PitchDia>279.305</PitchDia>
+        <MinorDia>278.088</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -15963,9 +15963,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>310.645</MajorDia>
-        <PitchDia>306.314</PitchDia>
-        <MinorDia>303.904</MinorDia>
+        <MajorDia>291.732</MajorDia>
+        <PitchDia>287.401</PitchDia>
+        <MinorDia>284.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -15997,9 +15997,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>310.475</MajorDia>
-        <PitchDia>307.588</PitchDia>
-        <MinorDia>305.969</MinorDia>
+        <MajorDia>291.562</MajorDia>
+        <PitchDia>288.675</PitchDia>
+        <MinorDia>287.056</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -16034,9 +16034,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>320.645</MajorDia>
-        <PitchDia>316.314</PitchDia>
-        <MinorDia>313.904</MinorDia>
+        <MajorDia>301.732</MajorDia>
+        <PitchDia>297.401</PitchDia>
+        <MinorDia>294.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -16068,9 +16068,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>320.475</MajorDia>
-        <PitchDia>317.588</PitchDia>
-        <MinorDia>315.969</MinorDia>
+        <MajorDia>301.562</MajorDia>
+        <PitchDia>298.675</PitchDia>
+        <MinorDia>297.056</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -16105,9 +16105,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>330.645</MajorDia>
-        <PitchDia>326.314</PitchDia>
-        <MinorDia>323.904</MinorDia>
+        <MajorDia>311.732</MajorDia>
+        <PitchDia>307.401</PitchDia>
+        <MinorDia>304.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -16139,9 +16139,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>330.475</MajorDia>
-        <PitchDia>327.588</PitchDia>
-        <MinorDia>325.969</MinorDia>
+        <MajorDia>311.562</MajorDia>
+        <PitchDia>308.675</PitchDia>
+        <MinorDia>307.056</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -16176,9 +16176,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>340.645</MajorDia>
-        <PitchDia>336.314</PitchDia>
-        <MinorDia>333.904</MinorDia>
+        <MajorDia>321.732</MajorDia>
+        <PitchDia>317.401</PitchDia>
+        <MinorDia>314.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -16210,9 +16210,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>340.475</MajorDia>
-        <PitchDia>337.588</PitchDia>
-        <MinorDia>335.969</MinorDia>
+        <MajorDia>321.562</MajorDia>
+        <PitchDia>318.675</PitchDia>
+        <MinorDia>317.056</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -16247,9 +16247,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>350.645</MajorDia>
-        <PitchDia>346.314</PitchDia>
-        <MinorDia>343.904</MinorDia>
+        <MajorDia>331.732</MajorDia>
+        <PitchDia>327.401</PitchDia>
+        <MinorDia>324.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -16281,9 +16281,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>350.475</MajorDia>
-        <PitchDia>347.588</PitchDia>
-        <MinorDia>345.969</MinorDia>
+        <MajorDia>331.562</MajorDia>
+        <PitchDia>328.675</PitchDia>
+        <MinorDia>327.056</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -16318,9 +16318,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>360.67</MajorDia>
-        <PitchDia>356.339</PitchDia>
-        <MinorDia>353.904</MinorDia>
+        <MajorDia>341.756</MajorDia>
+        <PitchDia>337.426</PitchDia>
+        <MinorDia>334.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -16352,9 +16352,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>360.488</MajorDia>
-        <PitchDia>357.601</PitchDia>
-        <MinorDia>355.969</MinorDia>
+        <MajorDia>341.575</MajorDia>
+        <PitchDia>338.688</PitchDia>
+        <MinorDia>337.056</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -16389,9 +16389,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>370.67</MajorDia>
-        <PitchDia>366.339</PitchDia>
-        <MinorDia>363.904</MinorDia>
+        <MajorDia>351.756</MajorDia>
+        <PitchDia>347.426</PitchDia>
+        <MinorDia>344.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -16423,9 +16423,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>370.488</MajorDia>
-        <PitchDia>367.601</PitchDia>
-        <MinorDia>365.969</MinorDia>
+        <MajorDia>351.575</MajorDia>
+        <PitchDia>348.688</PitchDia>
+        <MinorDia>347.056</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -16460,9 +16460,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>380.67</MajorDia>
-        <PitchDia>376.339</PitchDia>
-        <MinorDia>373.904</MinorDia>
+        <MajorDia>361.756</MajorDia>
+        <PitchDia>357.426</PitchDia>
+        <MinorDia>354.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -16494,9 +16494,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>380.488</MajorDia>
-        <PitchDia>377.601</PitchDia>
-        <MinorDia>375.969</MinorDia>
+        <MajorDia>361.575</MajorDia>
+        <PitchDia>358.688</PitchDia>
+        <MinorDia>357.056</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -16531,9 +16531,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>390.67</MajorDia>
-        <PitchDia>386.339</PitchDia>
-        <MinorDia>383.904</MinorDia>
+        <MajorDia>371.756</MajorDia>
+        <PitchDia>367.426</PitchDia>
+        <MinorDia>364.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -16565,9 +16565,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>390.488</MajorDia>
-        <PitchDia>387.601</PitchDia>
-        <MinorDia>385.969</MinorDia>
+        <MajorDia>371.575</MajorDia>
+        <PitchDia>368.688</PitchDia>
+        <MinorDia>367.056</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -16602,9 +16602,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>400.67</MajorDia>
-        <PitchDia>396.339</PitchDia>
-        <MinorDia>393.904</MinorDia>
+        <MajorDia>381.756</MajorDia>
+        <PitchDia>377.426</PitchDia>
+        <MinorDia>374.991</MinorDia>
       </Thread>
     </Designation>
     <Designation>
@@ -16636,9 +16636,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>400.488</MajorDia>
-        <PitchDia>397.601</PitchDia>
-        <MinorDia>395.969</MinorDia>
+        <MajorDia>381.575</MajorDia>
+        <PitchDia>378.688</PitchDia>
+        <MinorDia>377.056</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -16673,9 +16673,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>410.67</MajorDia>
-        <PitchDia>406.339</PitchDia>
-        <MinorDia>403.904</MinorDia>
+        <MajorDia>391.756</MajorDia>
+        <PitchDia>387.426</PitchDia>
+        <MinorDia>384.991</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -16710,9 +16710,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>420.67</MajorDia>
-        <PitchDia>416.339</PitchDia>
-        <MinorDia>413.904</MinorDia>
+        <MajorDia>401.756</MajorDia>
+        <PitchDia>397.426</PitchDia>
+        <MinorDia>394.991</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -16747,9 +16747,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>430.67</MajorDia>
-        <PitchDia>426.339</PitchDia>
-        <MinorDia>423.904</MinorDia>
+        <MajorDia>411.756</MajorDia>
+        <PitchDia>407.426</PitchDia>
+        <MinorDia>404.991</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -16784,9 +16784,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>440.67</MajorDia>
-        <PitchDia>436.339</PitchDia>
-        <MinorDia>433.904</MinorDia>
+        <MajorDia>421.756</MajorDia>
+        <PitchDia>417.426</PitchDia>
+        <MinorDia>414.991</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -16821,9 +16821,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>450.67</MajorDia>
-        <PitchDia>446.339</PitchDia>
-        <MinorDia>443.904</MinorDia>
+        <MajorDia>431.756</MajorDia>
+        <PitchDia>427.426</PitchDia>
+        <MinorDia>424.991</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -16858,9 +16858,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>460.67</MajorDia>
-        <PitchDia>456.339</PitchDia>
-        <MinorDia>453.904</MinorDia>
+        <MajorDia>441.756</MajorDia>
+        <PitchDia>437.426</PitchDia>
+        <MinorDia>434.991</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -16895,9 +16895,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>470.67</MajorDia>
-        <PitchDia>466.339</PitchDia>
-        <MinorDia>463.904</MinorDia>
+        <MajorDia>451.756</MajorDia>
+        <PitchDia>447.426</PitchDia>
+        <MinorDia>444.991</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -16932,9 +16932,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>480.67</MajorDia>
-        <PitchDia>476.339</PitchDia>
-        <MinorDia>473.904</MinorDia>
+        <MajorDia>461.756</MajorDia>
+        <PitchDia>457.426</PitchDia>
+        <MinorDia>454.991</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -16969,9 +16969,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>490.67</MajorDia>
-        <PitchDia>486.339</PitchDia>
-        <MinorDia>483.904</MinorDia>
+        <MajorDia>471.756</MajorDia>
+        <PitchDia>467.426</PitchDia>
+        <MinorDia>464.991</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -17006,9 +17006,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>500.67</MajorDia>
-        <PitchDia>496.339</PitchDia>
-        <MinorDia>493.904</MinorDia>
+        <MajorDia>481.756</MajorDia>
+        <PitchDia>477.426</PitchDia>
+        <MinorDia>474.991</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -17043,9 +17043,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>510.67</MajorDia>
-        <PitchDia>506.339</PitchDia>
-        <MinorDia>503.904</MinorDia>
+        <MajorDia>491.756</MajorDia>
+        <PitchDia>487.426</PitchDia>
+        <MinorDia>484.991</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -17080,9 +17080,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>520.67</MajorDia>
-        <PitchDia>516.339</PitchDia>
-        <MinorDia>513.904</MinorDia>
+        <MajorDia>501.756</MajorDia>
+        <PitchDia>497.426</PitchDia>
+        <MinorDia>494.991</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -17117,9 +17117,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>530.67</MajorDia>
-        <PitchDia>526.339</PitchDia>
-        <MinorDia>523.904</MinorDia>
+        <MajorDia>511.756</MajorDia>
+        <PitchDia>507.426</PitchDia>
+        <MinorDia>504.991</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -17154,9 +17154,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>540.67</MajorDia>
-        <PitchDia>536.339</PitchDia>
-        <MinorDia>533.904</MinorDia>
+        <MajorDia>521.756</MajorDia>
+        <PitchDia>517.426</PitchDia>
+        <MinorDia>514.991</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -17191,9 +17191,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>550.67</MajorDia>
-        <PitchDia>546.339</PitchDia>
-        <MinorDia>543.904</MinorDia>
+        <MajorDia>531.756</MajorDia>
+        <PitchDia>527.426</PitchDia>
+        <MinorDia>524.991</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -17228,9 +17228,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>560.67</MajorDia>
-        <PitchDia>556.339</PitchDia>
-        <MinorDia>553.904</MinorDia>
+        <MajorDia>541.756</MajorDia>
+        <PitchDia>537.426</PitchDia>
+        <MinorDia>534.991</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -17265,9 +17265,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>570.67</MajorDia>
-        <PitchDia>566.339</PitchDia>
-        <MinorDia>563.904</MinorDia>
+        <MajorDia>551.756</MajorDia>
+        <PitchDia>547.426</PitchDia>
+        <MinorDia>544.991</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -17302,9 +17302,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>580.67</MajorDia>
-        <PitchDia>576.339</PitchDia>
-        <MinorDia>573.904</MinorDia>
+        <MajorDia>561.756</MajorDia>
+        <PitchDia>557.426</PitchDia>
+        <MinorDia>554.991</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -17339,9 +17339,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>590.67</MajorDia>
-        <PitchDia>586.339</PitchDia>
-        <MinorDia>583.904</MinorDia>
+        <MajorDia>571.756</MajorDia>
+        <PitchDia>567.426</PitchDia>
+        <MinorDia>564.991</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -17376,9 +17376,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>600.67</MajorDia>
-        <PitchDia>596.339</PitchDia>
-        <MinorDia>593.904</MinorDia>
+        <MajorDia>581.756</MajorDia>
+        <PitchDia>577.426</PitchDia>
+        <MinorDia>574.991</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
@@ -17413,9 +17413,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>UM2 6H</Class>
-        <MajorDia>1060.856</MajorDia>
-        <PitchDia>1055.083</PitchDia>
-        <MinorDia>1051.839</MinorDia>
+        <MajorDia>1041.943</MajorDia>
+        <PitchDia>1036.17</PitchDia>
+        <MinorDia>1032.926</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>

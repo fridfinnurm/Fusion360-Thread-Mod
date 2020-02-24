@@ -24,7 +24,7 @@ threadsizes = list(map(lambda e: float(e.text),
                        threadlib.getroot().findall(".//ThreadSize/Size")))
 print(threadsizes)
 
-datapoints = [(3.0, 0.58), (5.0, 0.55), (8.0, 0.5), (12.0, 0.4), (50, 0)]
+datapoints = [(3.0, 0.58), (5.0, 0.55), (8.0, 0.5), (12.0, 0.4)]
 xs = np.linspace(min(threadsizes), max(threadsizes))
 
 
@@ -51,7 +51,7 @@ pxp = np.maximum(0, sigmoid(p, xp))
 plt.plot(x, y, '.', xp, pxp, '-')
 plt.show()
 
-adjfun = functools.partial(sigmoid, p)
+adjfun = np.maximum(0, functools.partial(sigmoid, p))
 
 threads = threadlib.getroot().iterfind(".//ThreadSize")
 for ts in threads:
